@@ -9,9 +9,11 @@ title: "Transportation"
 Flat tires https://maps.app.goo.gl/cSukRtbw65ANbrgo6
 
 ## Vans
+
 - lanta living tour (aka phra ae apartments)
 
-## Ferries 
+## Ferries
+
 - lanta living tour (aka phra ae apartments)
 
 ## Transfers:
