@@ -18,4 +18,11 @@ title: "Food"
 
 ## Delivery
 
-<https://lanta365pwa.web.app/lang?ref=lantanomads.com>
+You can order food online on [Lanta365](https://lanta365pwa.web.app/lang?ref=lantanomads.com).
+
+## Where to buy
+
+| Item                   | Shops |
+|------------------------|-------|
+| Chia seeds             | [Bonnie's Deli](https://maps.app.goo.gl/SSbdDpRoSAuAoVUS8), [Lanta Mart](https://maps.app.goo.gl/grbkRwDV5NPx699K7) |
+| Oats                   | [Lanta Mart](https://maps.app.goo.gl/grbkRwDV5NPx699K7) |

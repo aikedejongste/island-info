@@ -2,13 +2,19 @@
 title: "Where to buy"
 ---
 
-Art supplies: Thai Brand (just before turning to the bridge)
+## Pillows
+
+[Jimmy's Plastic Shop](https://maps.app.goo.gl/HTtdfsGX5Z5xut648)
+
+[Ikea](https://www.ikea.com/th/en/search/?q=pillows) - for most things delivery costs are only 99 THB.
+
+## Art supplies
+
+Thai Brand (just before turning to the bridge)
 
 ## Food
 
-Chia seeds: <https://maps.app.goo.gl/SSbdDpRoSAuAoVUS8>
-
-Birthday cakes: hidden tree or captain bakery
+See the [Food page](/food) for where to buy food items and birthday cakes.
 
 ## Photos
 
