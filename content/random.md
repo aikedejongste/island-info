@@ -11,3 +11,8 @@ Hello Welcome: [YouTube](https://youtu.be/IQc3kB0uaJs?si=uyPQ_Ts75fuP9v60&t=11&r
 ## Storage
 
 There is a seasonal storage service on the island: [Lanta Box](https://www.lanta-box.com?ref=lantanomads.com)
+
+## Printing
+
+Scanning, Photocopying and Printing are free for up to five pages for Kohub members, beyond that, they charge a small fee for larger jobs.
+

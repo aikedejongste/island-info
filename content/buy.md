@@ -8,6 +8,8 @@ title: "Where to buy"
 
 [Ikea](https://www.ikea.com/th/en/search/?q=pillows) - for most things delivery costs are only 99 THB.
 
+[Decathlon](https://www.decathlon.co.th/en-TH/search?query=pillows) - for inflatable pillows like [this one](https://www.decathlon.co.th/en-TH/p/inflatable-trekking-pillow-mt500-forclaz-8772596.html).
+
 ## Art supplies
 
 Thai Brand (just before turning to the bridge)

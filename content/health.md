@@ -13,3 +13,7 @@ You can walk in to all clinics. [Dr. Salarin](https://www.google.com/maps/search
 ## Nails
 
 [Cool Nail Studio](https://www.google.com/maps/search/?api=1&query=Cool+Nail+Studio+Koh+Lanta)
+
+## Barber and haircut
+
+[Let me cut Barber](https://maps.app.goo.gl/zL2GtxD4rjhWKZGi8?g_st=ipc) - next to Slow Bar Caffetaria.
