@@ -4,6 +4,16 @@ title: "Transportation"
 
 # Transportation
 
+## Scooter rental
+
+You can rent scooters almost everywhere on the island. The price is around 250-300 THB per day, depending on the season and the condition of the scooter. If you rent longer than a week you'll get a better price. For example 5000 THB per month.
+
+[Nare Scooter Rental Shop](https://maps.app.goo.gl/HbMNqjybkxesGZ9t6) has nicer, newer and better scooters than most.
+
+If you don't have a driver's license or you don't feel comfortable driving a scooter, you can rent an e-bike from [Koh Lanta Bike Rentals](https://maps.app.goo.gl/uipWxpP8qxHMzeKG8) instead.
+
+Flat tires: <https://maps.app.goo.gl/cSukRtbw65ANbrgo6>
+
 ## Taxi on the island
 
 Useful if you have a lot of luggage and you want to move to another accommodation.
@@ -12,9 +22,6 @@ Mr. Jook: [+66869432382](whatsapp://+66869432382)
 
 Taxi Nana Lanta [+66973528409](whatsapp://+66973528409)
 
-## Scooters
-
-Flat tires: <https://maps.app.goo.gl/cSukRtbw65ANbrgo6>
 
 ## Vans
 
