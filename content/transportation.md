@@ -22,7 +22,6 @@ Mr. Jook: [+66869432382](whatsapp://+66869432382)
 
 Taxi Nana Lanta [+66973528409](whatsapp://+66973528409)
 
-
 ## Vans
 
 - lanta living tour (aka phra ae apartments)
