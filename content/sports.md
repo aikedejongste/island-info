@@ -17,3 +17,7 @@ title: "Sports"
 [Fit On Lanta](https://maps.app.goo.gl/KV93eCEPcVzbbv829) - Group fitness classes in the morning and evening. Classes include HIIT, strength training, yoga, and more. Suitable for all fitness levels. See [website](https://www.fitonlanta.com/prices) for class schedule and pricing information.
 
 [Slava Total Workout](https://maps.app.goo.gl/wkPqUMUxK55g1mfz8) - High intensity functional training class, held every weekday at 8 in the morning at the Lanta Sports Restort. Also at 9:30 in the morning on Monday, Wednesday and Fridays. 60 minutes of bodyweight exercises, kettlebells, battle ropes, and sandbags. Suitable for all fitness levels. See [Facebook](https://www.facebook.com/slavatotalworkout) for schedule and pricing.
+
+## Yoga
+
+[Oasis Yoga]

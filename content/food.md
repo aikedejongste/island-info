@@ -4,9 +4,13 @@ title: "Food"
 
 # Food
 
+## Breakfast places
+
 ## Restaurants with good fish
 
 [Shanti Shanti Beach House](https://www.google.com/maps/search/?api=1&query=Shanti+Shanti+Beach+House+Koh+Lanta) - Good fish, win and sunset meals. Best from 6PM-10PM.
+
+[Laanta Seafood](https://maps.app.goo.gl/7dDyUXdaTsUMX8rX7)
 
 ## Birthday cakes
 

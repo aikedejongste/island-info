@@ -29,3 +29,13 @@ Surprisingly [Booking.com](https://www.booking.com/hotel/th/morrakot-lanta-resor
 ## 8. The travelers friend bungalows
 
 ## 9. Baan long haad
+
+## 10. Lanta Buddy Resort
+
+## 11. Maisuree Lanta Resort-Long Beach
+
+<https://www.booking.com/hotel/th/living-garden-home.html>
+
+## 12. Longhaad Lanta Garden resort
+
+<https://www.booking.com/hotel/th/lanta-kannika-longbeach-resort.html>
