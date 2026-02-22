@@ -8,6 +8,18 @@ group: "food-and-going-out"
 
 ## Breakfast places
 
+[Escape Cafe](https://www.google.com/maps/search/?api=1&query=Escape+Cafe+Koh+Lanta)
+
+[Mem's Coffee Corner](https://www.google.com/maps/search/?api=1&query=Mem%27s+Coffee+Corner+Koh+Lanta)
+
+[Peak Cafe](https://www.google.com/maps/search/?api=1&query=Peak+Cafe+Koh+Lanta)
+
+[Bark](https://www.google.com/maps/search/?api=1&query=Bark+Koh+Lanta)
+
+[Tuesday Morning](https://www.google.com/maps/search/?api=1&query=Tuesday+Morning+Koh+Lanta) - On weekends.
+
+[Kohub](https://www.google.com/maps/search/?api=1&query=Kohub+Koh+Lanta) - Has breakfast too.
+
 ## Restaurants with good fish
 
 [Shanti Shanti Beach House](https://www.google.com/maps/search/?api=1&query=Shanti+Shanti+Beach+House+Koh+Lanta) - Good fish, win and sunset meals. Best from 6PM-10PM.
