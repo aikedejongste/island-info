@@ -6,6 +6,8 @@ icon: "🍜"
 group: "food-and-going-out"
 ---
 
+Worried about food hygiene? Read our tips on [staying healthy while eating out](/health/#staying-healthy-how-to-reduce-your-risk-of-getting-sick).
+
 ## Breakfast places
 
 [Escape Cafe](https://www.google.com/maps/search/?api=1&query=Escape+Cafe+Koh+Lanta)
