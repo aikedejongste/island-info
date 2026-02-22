@@ -22,7 +22,7 @@ You can walk in to all clinics. [Dr. Salarin](https://www.google.com/maps/search
 
 [Let me cut Barber](https://maps.app.goo.gl/zL2GtxD4rjhWKZGi8?g_st=ipc) - next to Slow Bar Caffetaria.
 
-## Staying Healthy: How to Reduce Your Risk of Getting Sick
+## How to avoid food poisoning
 
 This is my personal, non-scientific approach for times when getting sick simply isn't an option. It is nearly impossible to judge a restaurant's hygiene just by looking at it — so the trick isn't finding the "safe" restaurant, it's reducing your overall exposure.
 
