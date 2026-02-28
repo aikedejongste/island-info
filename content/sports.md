@@ -12,6 +12,24 @@ group: "explore"
 
 [Luke's Gym](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta) - European style gym in Klong Khong, surrounded by jungle. Dumbbells up to 50kg, many machines. Very clean with separate changing rooms and showers. Towels provided. Air conditioned. Protein shakes available (vegetarian/vegan options, 120 THB). Day pass 200 THB, see [lukesgym.com](https://lukesgym.com) for more pricing information. You need a scooter to get there.
 
+[Thai CAT Sport Center](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6) - Free fan-cooled gym near the beach where you can do a full workout with a bit of creativity. They have a sign asking guests to buy a drink or food to support the gym, but there is no hard pressure. A nice routine is to train first, then order a Pad Thai at their beach restaurant and cool off in the sea while your lunch is prepared.
+
+Equipment (March 2026):
+
+- Plates (kg): 2x15, 4x10, 4x5, 6x2.5, 2x1.25
+- Dumbbells (lbs): 5, 10, 15, 20, 25, 30, 35, 40, 45, 50
+- 2 movable seats for dumbbell exercises
+- EZ bar
+- Leg press machine (you might need all the plates in the gym)
+- Smith machine with bench
+- Squat rack
+- Lat pulldown / seated row
+- Adjustable cables
+- Pull up / chin up
+- Dips
+- Abs roller
+- Cycle hometrainer
+
 ## Muay Thai
 
 ## Classes
