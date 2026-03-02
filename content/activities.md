@@ -27,6 +27,7 @@ A portion of all profits goes to [Lanta Animal Welfare](https://www.lantaanimalw
 
 ## Massages
 
-1. Crypto near ozone
-2. Anchan
-3. Dreamy spa
+- Anchan - the best
+- Dreamy spa - also very good
+- Maneelanta - good budget option
+- Funky Fish - good beach option
