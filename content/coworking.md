@@ -1,29 +1,59 @@
 ---
 title: "Coworking"
-description: "Coworking spaces and work-friendly cafes on Koh Lanta. Kohub, Fika, Coworx and cafes with good WiFi."
+description: "Coworking spaces and work-friendly cafes on Koh Lanta. KoHub, Fika, Coworx, and cafes with fast WiFi for remote work."
 weight: 1
 icon: "💻"
 group: "work"
 ---
 
-There are 3 coworking spaces in the area and lot's of cafes you can work from.
+The island has fiber internet along the west coast from Saladan down to Klong Nin. Cafes average around 180 Mbps, and the dedicated coworking spaces hit 1 Gbps. You won't have connectivity problems here.
 
 ## Coworking spaces
 
-1. Kohub
+### KoHub
 
-This is by far the biggest coworking space in Koh Lanta. It has a lot of space, good internet and a nice community.
+<a href="https://www.google.com/maps/search/?api=1&query=KoHub+Koh+Lanta" target="_blank" rel="noopener">KoHub</a> is the biggest coworking space on the island. It's off the main road near Long Beach, about 10 minutes walk from the sand, with a jungle garden out back. The internet is fast (1 Gbps fiber), there's good coffee and food on site, and the community is the main draw. People come back year after year.
 
-2. Fika
+They also do coliving packages with a private room and meals included.
 
-3. Coworx
+**Seasonal: open November through April only.** Closed during low season.
 
-## Cafes
+<ul class="price-list">
+  <li><span class="price-label">Day pass</span> <span class="price-value">400 THB</span></li>
+  <li><span class="price-label">Week</span> <span class="price-value">2,000 THB</span></li>
+  <li><span class="price-label">Month</span> <span class="price-value">6,500 THB</span></li>
+</ul>
 
-There are many cafes around the island where you can work from. Some popular ones include:
+<a href="https://kohub.org/?ref=lantanomads.com" target="_blank" rel="noopener">kohub.org</a>
 
-1. The Glass House
+### Fika
 
-2. Escape Cafe
+<a href="https://www.google.com/maps/search/?api=1&query=Fika+Coworking+Koh+Lanta" target="_blank" rel="noopener">Fika</a> has WiFi 7 on all floors with multiple fiber connections and backup lines, so the connection is solid even when the rest of the island is having a bad day. The AC is strong (they brag about it, and they should). They run workshops and networking meetups regularly.
 
-3.
+<a href="https://www.lanta-fika.com/co-working/?ref=lantanomads.com" target="_blank" rel="noopener">lanta-fika.com</a>
+
+### Coworx
+
+<a href="https://www.google.com/maps/search/?api=1&query=Coworx+Koh+Lanta" target="_blank" rel="noopener">Coworx</a> is a coliving and coworking combo near Klong Dao Beach (3-5 minute walk). If you book a room, the workspace is included. They opened a new 200m² townhouse in 2025 spread over three floors. The desks are height-adjustable with proper ergonomic chairs, and there's a private soundproof office you can book by the hour (80 THB/hr).
+
+Works well if you want accommodation and workspace in one place without commuting between the two.
+
+<a href="https://coworx-lanta.com/?ref=lantanomads.com" target="_blank" rel="noopener">coworx-lanta.com</a>
+
+## Cafes you can work from
+
+You don't need a coworking space to get work done here. Several cafes have fast WiFi, AC, and enough power outlets to spend a full day.
+
+### The Glass House
+
+<a href="https://www.google.com/maps/search/?api=1&query=The+Glass+House+Koh+Lanta" target="_blank" rel="noopener">The Glass House</a> is a restaurant downstairs and a free coworking space on the upper floor (with a purchase from the cafe). The upstairs is air-conditioned and has a Skype room, printer, lockers, and extra monitors. WiFi runs at about 200 Mbps on a 1 Gbps line. Three minutes from Long Beach. Closed Saturdays.
+
+Honestly the best deal on the island if you just need a desk and good internet without paying for a membership.
+
+### Together Cafe
+
+On the main road near Long Beach. 434 Mbps WiFi, which is faster than most coworking spaces charge money for. AC inside, plenty of power outlets. Thai and international menu.
+
+### Escape Cafe
+
+Beachfront at the entrance of Long Beach Chalet. 162 Mbps WiFi with power outlets even at the outdoor seats facing the water. Good specialty coffee. No traffic noise. Better for light work days when you want a view more than a monitor.
