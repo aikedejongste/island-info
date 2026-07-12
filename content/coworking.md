@@ -61,7 +61,7 @@ You don't need a coworking space to get work done here. Several cafes have fast 
 
 <a href="https://www.google.com/maps/search/?api=1&query=The+Glass+House+Koh+Lanta" target="_blank" rel="noopener">The Glass House</a> is a restaurant downstairs and a free coworking space on the upper floor (with a purchase from the cafe). The upstairs is air-conditioned and has a Skype room, printer, lockers, and extra monitors. WiFi runs at about 200 Mbps on a 1 Gbps line. Three minutes from Long Beach. Closed Saturdays.
 
-Honestly the best deal on the island if you just need a desk and good internet without paying for a membership.
+If you just need a desk and good internet without paying for a membership, this is the best deal on the island.
 
 ### Together Cafe
 
