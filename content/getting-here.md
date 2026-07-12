@@ -16,7 +16,7 @@ The car ferry is a small roll-on roll-off barge that takes about 15 minutes. It 
 ### Transfer options from Krabi Airport
 
 <ul class="price-list">
-  <li><span class="price-label">Shared minivan</span> <span class="price-value">400-500 THB</span></li>
+  <li><span class="price-label">Shared minivan</span> <span class="price-value">350-500 THB</span></li>
   <li><span class="price-label">Private transfer</span> <span class="price-value">2,500-3,000 THB</span></li>
 </ul>
 
