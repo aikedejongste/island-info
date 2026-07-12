@@ -30,6 +30,12 @@ Expect to pay 200-500 THB depending on distance. Always agree on the fare before
 
 Tuk-tuks are common around <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Koh+Lanta" target="_blank" rel="noopener">Saladan</a> and the busier beaches, and easier to find than taxis. They're fine for short hops but cost more per trip than calling a driver directly.
 
+## Can I take a Grab from Krabi to Koh Lanta?
+
+You can. Grab works in Krabi town, and some drivers will take you all the way to the island. Just know that it's a bad deal for them. Once they drop you off, there's nobody to pick up on the way back. That's 2+ hours of empty driving on their dime.
+
+If you go this route, tip well. Really well. Or consider getting dropped at the car ferry pier on the mainland side and grabbing a tuk-tuk once you cross. Saves the driver the dead return trip and you'll still get to your hotel just fine.
+
 ## Will Grab ever come to Koh Lanta?
 
 Probably not anytime soon. The island's population is small, tourism is seasonal, and the roads are simple enough that the informal taxi system works. Koh Samui and Phuket have Grab because they're big enough to sustain it. Lanta isn't there yet.
