@@ -82,7 +82,7 @@ When you inevitably get a flat, head to this <a href="https://maps.app.goo.gl/cS
 
 ## Taxis on the island
 
-There's no Grab or ride-hailing apps on Koh Lanta. Taxis are old-school: you call or message someone directly. They're useful when you have a lot of luggage or need to get somewhere late at night.
+There's [no Grab or ride-hailing apps](/grab/) on Koh Lanta. Taxis are old-school: you call or message someone directly. They're useful when you have a lot of luggage or need to get somewhere late at night.
 
 Expect to pay 200-500 THB depending on distance. Agree on the price before you get in.
 
