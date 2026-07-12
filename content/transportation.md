@@ -16,7 +16,7 @@ Most people fly into <a href="https://www.google.com/maps/search/?api=1&query=Kr
 
 A few options for the airport transfer:
 
-- **Shared minivan** - Cheapest option at around 400-500 THB per person. They wait until the van is full before leaving, so timing is unpredictable. Can be cramped.
+- **Shared minivan** - Cheapest option at around 350-500 THB per person. They wait until the van is full before leaving, so timing is unpredictable. Can be cramped.
 - **Private minivan** - Around 2,500-3,000 THB for the whole vehicle. Worth it if you're traveling with others or have a lot of luggage. Book in advance.
 - **Taxi** - Similar price to a private minivan. Available at the airport but better to arrange ahead of time.
 
