@@ -8,6 +8,8 @@ group: "getting-started"
 
 [93 countries](https://www.tourismthailand.org/Articles/visa-free-entry-to-thailand-en) get **60 days visa-free**. That's enough for most visitors. You can extend by 30 days at immigration if you want to stay longer, or apply for a tourist visa (60 days) before your trip.
 
+> ⚠️ **Heads up:** Thailand has approved cutting visa-free stays from 60 to 30 days for most nationalities (and fewer eligible countries). It's not in effect yet as of mid-2026, but it could take effect at short notice — always check the current rule before you book.
+
 Before you fly, fill out the [Thailand Digital Arrival Card (TDAC)](https://tdac.immigration.go.th). It's required within 72 hours of arrival.
 
 If you're planning to stay and work remotely, look into the **Destination Thailand Visa (DTV)**. It's a 5-year multiple-entry visa with 180-day stays that can be extended by another 180 days. Costs 10.000 THB to apply and you need 500.000 THB in the bank.
