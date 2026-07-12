@@ -3,7 +3,7 @@ title: "Getting to Koh Lanta"
 description: "How to reach Koh Lanta from Bangkok, Phuket, and nearby islands. Flights, transfers, ferries, and what to expect from the car ferry crossing."
 ---
 
-Most people fly into Krabi and take a road transfer. The whole thing, door to door, takes about 4-5 hours from Bangkok including the flight.
+Most people fly into Krabi and take a road transfer. From Bangkok, count on 5-6 hours door to door: the flight itself is short, but the transfer and ferry crossing eat up the rest.
 
 ## Fly to Krabi, then drive
 
@@ -16,7 +16,7 @@ The car ferry is a small roll-on roll-off barge that takes about 15 minutes. It 
 ### Transfer options from Krabi Airport
 
 <ul class="price-list">
-  <li><span class="price-label">Shared minivan</span> <span class="price-value">350-450 THB</span></li>
+  <li><span class="price-label">Shared minivan</span> <span class="price-value">400-500 THB</span></li>
   <li><span class="price-label">Private transfer</span> <span class="price-value">2,500-3,000 THB</span></li>
 </ul>
 
@@ -56,7 +56,7 @@ Both work fine, but you lose a full day of travel either way. Most people just f
 
 <div class="tip-box">
 <ul>
-<li>There is no bridge from the mainland to Koh Lanta yet. A second bridge project is underway with completion expected around 2029, but for now the car ferry is the only road connection.</li>
+<li>The car ferry is the only road connection from the mainland. The existing Siri Lanta Bridge only links Koh Lanta Noi to Koh Lanta Yai. A new bridge from the mainland is under construction, expected around 2029.</li>
 <li>If you're coming from Phuket by road rather than ferry, the drive is about 4-5 hours via the mainland (through Krabi).</li>
 <li>Travel agencies all over Saladan sell combined tickets for any route. Prices are similar everywhere.</li>
 </ul>
