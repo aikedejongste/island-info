@@ -1,6 +1,6 @@
 ---
 title: "Coworking"
-description: "Coworking spaces and work-friendly cafes on Koh Lanta. KoHub, Fika, Coworx, and cafes with fast WiFi for remote work."
+description: "Coworking spaces and work-friendly cafes on Koh Lanta. KoHub, Monkey Business, Fika, Coworx, and cafes with fast WiFi for remote work."
 weight: 1
 icon: "💻"
 group: "work"
@@ -25,6 +25,19 @@ They also do coliving packages with a private room and meals included.
 </ul>
 
 <a href="https://kohub.org/?ref=lantanomads.com" target="_blank" rel="noopener">kohub.org</a>
+
+### Monkey Business
+
+<a href="https://www.google.com/maps/search/?api=1&query=Monkey+Business+Coworking+Phra-Ae+Koh+Lanta" target="_blank" rel="noopener">Monkey Business</a> is above Free Descent Bar in Phra-Ae. Jungle treehouse theme, dual 1 Gbps fiber lines with failover, and 24/7 access. Every membership includes a monitor, keyboard, and mouse at your desk. There's a meeting room, quiet area, and a cafe on site (members get 15% off drinks).
+
+**Open year-round**, which makes it the go-to option during low season when KoHub is closed.
+
+<ul class="price-list">
+  <li><span class="price-label">Day pass</span> <span class="price-value">350 THB</span></li>
+  <li><span class="price-label">Dedicated desk (day)</span> <span class="price-value">500 THB</span></li>
+</ul>
+
+<a href="https://monkeybusinessonlanta.com/?ref=lantanomads.com" target="_blank" rel="noopener">monkeybusinessonlanta.com</a>
 
 ### Fika
 
