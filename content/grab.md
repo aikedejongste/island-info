@@ -28,7 +28,7 @@ If you don't ride, or you've had a few drinks, you call a taxi driver directly. 
 
 Expect to pay 200-500 THB depending on distance. Always agree on the fare before you get in.
 
-Tuk-tuks hang around <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Koh+Lanta" target="_blank" rel="noopener">Saladan</a> and the busier beaches, but they're not reliable and the prices tend to be higher than calling someone directly.
+Tuk-tuks are common around <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Koh+Lanta" target="_blank" rel="noopener">Saladan</a> and the busier beaches, and easier to find than taxis. They're fine for short hops but cost more per trip than calling a driver directly.
 
 ## Will Grab ever come to Koh Lanta?
 
