@@ -19,3 +19,5 @@ There is a seasonal storage service on the island: [Lanta Box](https://www.lanta
 ## Printing
 
 Scanning, Photocopying and Printing are free for up to five pages for Kohub members, beyond that, they charge a small fee for larger jobs.
+
+You can also print at [Kodak Express](https://maps.app.goo.gl/CACJtRN2uYipJj2y9), where they also take profile pictures for visa applications.
