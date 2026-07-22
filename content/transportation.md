@@ -97,6 +97,11 @@ Expect to pay 200-500 THB depending on distance. Agree on the price before you g
     <a href="https://wa.me/66973528409" target="_blank" rel="noopener">+66 97 352 8409</a>
     <span class="contact-note">WhatsApp</span>
   </div>
+  <div class="contact-card">
+    <strong>Aek Taxi &amp; Laundry</strong>
+    <a href="https://wa.me/66828080111" target="_blank" rel="noopener">+66 82 808 0111</a>
+    <span class="contact-note">WhatsApp — friendly, reliable, and can pick up and drop off your laundry (via <a href="https://maps.app.goo.gl/JZ43JGih47bJHyjn7" target="_blank" rel="noopener">Alita Laundry Services</a>) along the way</span>
+  </div>
 </div>
 
 Tuk-tuks and songthaew (shared pickup trucks) are sometimes available near Saladan and the main beaches, but they're not something you can count on. Prices tend to be inflated compared to a direct taxi.

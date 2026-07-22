@@ -25,6 +25,12 @@ A portion of all profits goes to [Lanta Animal Welfare](https://www.lantaanimalw
 
 **Book directly at [timeforlime.net](https://timeforlime.net)** — they prefer direct bookings so more goes to the animals.
 
+## Go-Karting
+
+### [Lanta E-GoKart](https://maps.app.goo.gl/kUMqmgQyaggVutEP8)
+
+A fun activity for adults and kids. Off season you can usually walk straight in; in high season it's worth checking ahead. After each round you're handed a little baby bottle to feed the koi fish, a cute touch that keeps the kids (and adults) coming back for another lap. Bring your own helmet if you have one.
+
 ## Massages
 
 - Anchan - the best

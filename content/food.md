@@ -28,6 +28,10 @@ Worried about food hygiene? Read our tips on [staying healthy while eating out](
 
 [Laanta Seafood](https://maps.app.goo.gl/7dDyUXdaTsUMX8rX7)
 
+## BBQ & American
+
+[Joe's Texas BBQ](https://maps.app.goo.gl/LUwUThF75s7boSmNA) - Not local or authentically Thai, but a fine Texan surprise at the end of the world. The meat-eaters raved about the ribs and wanted to go back; vegetarians are looked after too, with a genuinely delicious bean wrap.
+
 ## Birthday cakes
 
 [Captain Bakery](https://www.google.com/maps/search/?api=1&query=Captain+Bakery+Koh+Lanta)
