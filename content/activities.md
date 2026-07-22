@@ -1,9 +1,11 @@
 ---
-title: "Activities"
-description: "Things to do on Koh Lanta. Massages, spas and other activities for digital nomads and remote workers."
+title: "Trips & Activities"
+description: "Things to do on Koh Lanta. Cooking classes, kayaking, massages, spas and other activities for digital nomads and remote workers."
 weight: 2
 icon: "🎯"
 group: "explore"
+aliases:
+  - /trips/
 ---
 
 ## Cooking Classes
@@ -30,6 +32,12 @@ A portion of all profits goes to [Lanta Animal Welfare](https://www.lantaanimalw
 ### [Lanta E-GoKart](https://maps.app.goo.gl/kUMqmgQyaggVutEP8)
 
 A fun activity for adults and kids. Off season you can usually walk straight in; in high season it's worth checking ahead. After each round you're handed a little baby bottle to feed the koi fish, a cute touch that keeps the kids (and adults) coming back for another lap. Bring your own helmet if you have one.
+
+## Kayaking
+
+### Mangroves
+
+Enter the mangroves, pay the 20b entrance fee, they will try to get you to rent from them or get a guide, ignore that. Then carry on past the toilet, over the bridge, there's a little restaurant on the left that rents yellow/red kayaks for 500b for 2 hours
 
 ## Massages
 
