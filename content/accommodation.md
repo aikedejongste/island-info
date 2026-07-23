@@ -1,7 +1,7 @@
 ---
 title: "Accommodation"
 description: "How to find accommodation on Koh Lanta as a remote worker. Bungalows, resorts and budget stays near Long Beach with monthly rates and booking tips."
-weight: 2
+weight: 3
 icon: "🏠"
 group: "getting-started"
 ---
