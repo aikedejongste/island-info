@@ -35,3 +35,7 @@ See the [Coffee page](/coffee) for where to buy coffee beans and equipment.
 They don't have good quality, certified helmets there. You can buy cheap on lazada good quality ones under 3h baths (look for "LS2" for example).
 
 You can also take a look there: <https://maps.app.goo.gl/uswCQvZeskBWi5DR9>
+
+## Plants
+
+At the [Flower Shop](https://maps.app.goo.gl/H8hZibZRqRB18z6n7).
