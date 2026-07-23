@@ -18,12 +18,12 @@ Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflow
 
 ## Architecture
 
-- **Content:** All site content lives in `content/` as Markdown files with YAML front matter (`title` and `description`). Each `.md` file becomes a page. `_index.md` is the homepage content.
+- **Content:** All site content lives in `content/` as Markdown files with YAML front matter (`title`, `description`, `group`, `weight`, `icon`). Each `.md` file becomes a page. `_index.md` is the homepage content.
 - **Layouts:** Four Hugo templates in `layouts/`:
   - `_default/baseof.html` — base HTML shell (header, footer, CSS link)
   - `_default/single.html` — individual content page
   - `_default/list.html` — section listing
-  - `index.html` — homepage, lists all `RegularPages`
+  - `index.html` — homepage, lists pages **grouped by the `group` front matter param**, not all `RegularPages`
 - **Styling:** Single CSS file at `static/css/styles.css`, plus inline styles in templates.
 - **Config:** `config.toml` — minimal Hugo config (baseURL, title, description).
 
@@ -41,6 +41,8 @@ Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflow
 
 ## Content Conventions
 
+- Every new content page **must** set `group`, `weight` and `icon` in front matter, otherwise it is silently omitted from the homepage and becomes an orphan page (in the sitemap, but unreachable by crawlers and users). Valid `group` values are defined in `layouts/index.html`: `getting-started`, `work`, `food-and-going-out`, `explore`, `practical`.
+- Also link new pages contextually from a topically related page, not just from the homepage.
 - Content files use Google Maps search links for locations: `https://www.google.com/maps/search/?api=1&query=Place+Name+Koh+Lanta`
 - Markdownlint config (`.markdownlint.json`) disables: line length (MD013), multiple top-level headings (MD025), trailing punctuation in headings (MD026), ordered list numbering (MD029), and link/image reference definitions (MD060).
 

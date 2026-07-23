@@ -1,7 +1,7 @@
 ---
 title: "Money"
 description: "Money tips for Koh Lanta. ATMs, currency exchange, payment methods, tipping etiquette and how to avoid fees."
-weight: 4
+weight: 5
 icon: "💰"
 group: "getting-started"
 ---

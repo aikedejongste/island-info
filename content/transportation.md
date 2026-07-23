@@ -1,7 +1,7 @@
 ---
 title: "Transportation"
 description: "Getting around Koh Lanta. Scooter rentals, airport transfers from Krabi, taxis, ferry routes to nearby islands and essential driving tips."
-weight: 3
+weight: 4
 icon: "🛵"
 group: "getting-started"
 ---
@@ -12,7 +12,7 @@ There's no public transport on Koh Lanta. Most people rent a scooter and that's 
 
 ## Getting to the island
 
-Most people fly into <a href="https://www.google.com/maps/search/?api=1&query=Krabi+Airport" target="_blank" rel="noopener">Krabi Airport</a> and then take a transfer to Koh Lanta. The drive takes about 2 to 2.5 hours depending on traffic and ferry wait times.
+Most people fly into <a href="https://www.google.com/maps/search/?api=1&query=Krabi+Airport" target="_blank" rel="noopener">Krabi Airport</a> and then take a transfer to Koh Lanta. The drive takes about 2 to 2.5 hours depending on traffic and ferry wait times. For the full route from Bangkok, Phuket or the nearby islands, see [getting to Koh Lanta](/getting-here/).
 
 A few options for the airport transfer:
 

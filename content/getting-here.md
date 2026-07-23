@@ -1,6 +1,9 @@
 ---
 title: "Getting to Koh Lanta"
 description: "How to reach Koh Lanta from Bangkok, Phuket, and nearby islands. Flights, transfers, ferries, and what to expect from the car ferry crossing."
+weight: 2
+icon: "✈️"
+group: "getting-started"
 ---
 
 Most people fly into Krabi and take a road transfer. From Bangkok, count on 5-6 hours door to door: the flight itself is short, but the transfer and ferry crossing eat up the rest.
