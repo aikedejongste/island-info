@@ -1,0 +1,15 @@
+{{- $anchor := .Get "title" | anchorize -}}
+<div class="beach">
+  <div class="beach-text">
+    <h2 id="{{ $anchor }}">{{ .Get "title" }} <a class="heading-anchor" href="#{{ $anchor }}" aria-label="Anchor">#</a></h2>
+    {{ .Inner | markdownify }}
+  </div>
+  {{- with .Get "img" }}
+  <figure class="beach-image">
+    <img src="{{ . | relURL }}" alt="{{ $.Get `alt` }}" loading="lazy">
+    {{- with index site.Data.photo_credits . }}
+    <figcaption class="beach-credit">Photo: <a href="{{ .source }}" rel="nofollow">{{ .author }}</a> · <a href="{{ .licenseurl }}" rel="license nofollow">{{ .license }}</a></figcaption>
+    {{- end }}
+  </figure>
+  {{- end }}
+</div>

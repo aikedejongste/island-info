@@ -1,0 +1,23 @@
+# Photo credits for images, keyed by their path under /static.
+# Used by layouts/shortcodes/beach.html to render attribution captions.
+# Required for Creative Commons images (CC BY / CC BY-SA) sourced from Wikimedia Commons.
+/images/beaches/khlong-dao.jpg:
+  author: Vaclav Zrno
+  source: https://commons.wikimedia.org/wiki/File:Lanta_Island_resort_-_panoramio.jpg
+  license: CC BY 3.0
+  licenseurl: https://creativecommons.org/licenses/by/3.0
+/images/beaches/long-beach.jpg:
+  author: Luděk Chmurovský
+  source: https://commons.wikimedia.org/wiki/File:Long_Beach_-_panoramio_(3).jpg
+  license: CC BY 3.0
+  licenseurl: https://creativecommons.org/licenses/by/3.0
+/images/beaches/nui-bay.jpg:
+  author: Alexey Komarov
+  source: https://commons.wikimedia.org/wiki/File:Sunset_at_Nui_Beach,_Ko_Lanta_Yai,_April,_2018.jpg
+  license: CC BY-SA 4.0
+  licenseurl: https://creativecommons.org/licenses/by-sa/4.0
+/images/beaches/kantiang-bay.jpg:
+  author: Alexey Komarov
+  source: https://commons.wikimedia.org/wiki/File:Ba_Kantiang_Beach,_Ko_Lanta_Yai,_April,_2018.jpg
+  license: CC BY-SA 4.0
+  licenseurl: https://creativecommons.org/licenses/by-sa/4.0
