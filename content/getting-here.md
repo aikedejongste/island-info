@@ -1,5 +1,6 @@
 ---
 title: "Getting to Koh Lanta"
+seotitle: "Getting to Koh Lanta"
 description: "How to reach Koh Lanta from Bangkok, Phuket, and nearby islands. Flights, transfers, ferries, and what to expect from the car ferry crossing."
 weight: 2
 icon: "✈️"
