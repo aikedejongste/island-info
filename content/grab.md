@@ -1,6 +1,10 @@
 ---
 title: "Is there Grab on Koh Lanta?"
+seotitle: "Is There Grab on Koh Lanta?"
 description: "No. Grab and other ride-hailing apps don't work on Koh Lanta. Here's how to get around instead."
+weight: 4
+icon: "🚗"
+group: "practical"
 ---
 
 No. Grab doesn't work on Koh Lanta, and neither does Bolt or any other ride-hailing app. The island is too small and too far from the mainland for any of them to operate here.

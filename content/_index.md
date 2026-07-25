@@ -1,5 +1,6 @@
 ---
 title: "Lanta Nomads"
+seotitle: "Koh Lanta for Digital Nomads & Remote Workers"
 description: "A guide for remote workers and digital nomads on Koh Lanta, Thailand. Find coworking spaces, accommodation, food, activities and more."
 ---
 
