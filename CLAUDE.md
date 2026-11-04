@@ -14,7 +14,7 @@ A Hugo static site providing information for remote workers/digital nomads on Ko
 
 ## Deployment
 
-Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflows/deploy.yml`), which lints, builds with Hugo 0.114.0, and deploys the `public/` directory to GitHub Pages.
+Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflows/deploy.yml`), which lints, builds with Hugo 0.169.0, and deploys the `public/` directory to GitHub Pages.
 
 ## Architecture
 

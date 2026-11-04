@@ -7,7 +7,7 @@
   {{- with .Get "img" }}
   <figure class="beach-image">
     <img src="{{ . | relURL }}" alt="{{ $.Get `alt` }}" loading="lazy">
-    {{- with index site.Data.photo_credits . }}
+    {{- with index hugo.Data.photo_credits . }}
     <figcaption class="beach-credit">Photo: <a href="{{ .source }}" rel="nofollow">{{ .author }}</a> · <a href="{{ .licenseurl }}" rel="license nofollow">{{ .license }}</a></figcaption>
     {{- end }}
   </figure>
