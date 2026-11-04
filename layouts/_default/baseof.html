@@ -14,7 +14,7 @@
     {{- end -}}
     <title>{{ with $seotitle }}{{ . }} | {{ end }}{{ .Site.Title }}</title>
     {{- $description := .Site.Params.description -}}
-    {{- with .Params.description }}{{ $description = . }}{{ end -}}
+    {{- with .Description }}{{ $description = . }}{{ end -}}
     <meta name="description" content="{{ $description }}">
     <link rel="canonical" href="{{ .Permalink }}">
     <meta property="og:title" content="{{ if $seotitle }}{{ $seotitle }}{{ else }}{{ .Site.Title }}{{ end }}">
