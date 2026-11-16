@@ -70,6 +70,7 @@ The price depends on the season, the bike's condition, and how long you're renti
 <li>Wear a helmet. It's the law, and the roads get steep and winding in the southern part of the island.</li>
 <li>Fill up at a proper gas station rather than the roadside bottle sellers - the fuel quality is better and the price is fair.</li>
 <li>Roads are mostly in good shape, but watch out for sand, gravel, and dogs.</li>
+<li>Riding at night without a visor? Bugs and sand will end up in your eyes. <a href="https://maps.app.goo.gl/33JTgZ7otL8R2VvH8" target="_blank" rel="noopener">Modern Optic Lanta</a> sells clear (non-tinted) glasses made for night riding.</li>
 <li>Drive on the left side of the road.</li>
 </ul>
 </div>
