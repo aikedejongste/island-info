@@ -10,7 +10,7 @@ Most visitors get **30 days visa-free** in Thailand, and you can extend that onc
 
 > ⚠️ **Changed on 15 September 2026:** Thailand cut visa-free stays from 60 to 30 days and shortened the list of eligible countries to 60 countries and territories ([official notice in the Royal Gazette](https://ratchakitcha.soc.go.th/documents/128703.pdf), in Thai; [English list](https://www.nationthailand.com/news/tourism/40070511)). A lot of websites still say 60 days. Check that your country is on the list before you book.
 
-Want to stay longer from the start? Apply for a tourist visa before your trip. It gives you 60 days per entry.
+Want to stay longer from the start? Apply for a tourist visa through the [official Thai e-Visa site](https://www.thaievisa.go.th) before your trip. It gives you [up to 60 days per entry](https://washingtondc.thaiembassy.org/en/page/trsingle-entry), and you can extend that by 30 days in Thailand.
 
 Before you fly, fill out the [Thailand Digital Arrival Card (TDAC)](https://tdac.immigration.go.th). It's required for every arrival, within 3 days before you land.
 
