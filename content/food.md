@@ -1,12 +1,13 @@
 ---
-title: "Food"
-description: "Where to eat on Koh Lanta. Breakfast spots, seafood restaurants, birthday cakes, food delivery and grocery shopping."
+title: "Where to eat"
+seotitle: "Where to Eat on Koh Lanta: Restaurants and Food Delivery"
+description: "Where to eat on Koh Lanta: breakfast spots, seafood restaurants, BBQ, birthday cakes, food delivery with Lanta365 and KOHME, and where to buy groceries."
 weight: 1
 icon: "🍜"
 group: "food-and-going-out"
 ---
 
-Worried about food hygiene? Read our tips on [staying healthy while eating out](/health/#staying-healthy-how-to-reduce-your-risk-of-getting-sick).
+Where to eat on Koh Lanta, from breakfast spots to seafood dinners, plus how to get food delivered. Worried about food hygiene? Read our tips on [staying healthy while eating out](/health/#staying-healthy-how-to-reduce-your-risk-of-getting-sick).
 
 ## Breakfast places
 
@@ -24,7 +25,7 @@ Worried about food hygiene? Read our tips on [staying healthy while eating out](
 
 ## Restaurants with good fish
 
-[Shanti Shanti Beach House](https://www.google.com/maps/search/?api=1&query=Shanti+Shanti+Beach+House+Koh+Lanta) - Good fish, win and sunset meals. Best from 6PM-10PM.
+[Shanti Shanti Beach House](https://www.google.com/maps/search/?api=1&query=Shanti+Shanti+Beach+House+Koh+Lanta) - Good fish, wine and sunset meals. Best from 6PM-10PM.
 
 [Laanta Seafood](https://maps.app.goo.gl/7dDyUXdaTsUMX8rX7)
 
@@ -40,9 +41,12 @@ Worried about food hygiene? Read our tips on [staying healthy while eating out](
 
 [The Glass House](https://www.google.com/maps/search/?api=1&query=The+Glass+House+Koh+Lanta) stopped selling cakes.
 
-## Delivery
+## Food delivery
 
-You can order food online on [Lanta365](https://lanta365pwa.web.app/lang?ref=lantanomads.com).
+Grab Food and the other big delivery apps barely cover Koh Lanta, and [Grab doesn't work here at all](/grab/). Use one of the local services instead:
+
+- [Lanta365](https://lanta365pwa.web.app/lang?ref=lantanomads.com) - The island's own food delivery service, running since 2019. Order online.
+- [KOHME](https://kohme.delivery/en/koh-lanta/restaurants/) - A delivery app with about 36 Koh Lanta restaurants (November 2026), from Thai and Indian to pizza and breakfast.
 
 ## Where to buy
 
