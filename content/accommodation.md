@@ -93,13 +93,13 @@ These are on the list from locals but don't have much of an online footprint. Wo
 
 - **Forest House** - ask around near Long Beach
 - **The Travellers Friend Bungalows** - small local guesthouse
+-->
 
 ## Tips for booking
 
-- **High season (Dec-Feb):** Book at least a few weeks ahead for the popular spots. Prices are at their highest.
-- **Shoulder season (Nov, Mar-Apr):** Good availability, reasonable prices. You can book a few days before or just show up.
-- **Low season (May-Oct):** Many places close entirely. Those that stay open offer big discounts (50%+), but the island is very quiet and some restaurants shut down too.
-- **Monthly rates:** Most places will negotiate a monthly rate if you ask, especially for stays of 4+ weeks. This usually only works in person or via WhatsApp, not through booking platforms.
-- **Agoda vs Booking.com:** Compare both. Agoda tends to have better prices for Thai hotels. Some smaller places are only on one platform.
-- **Walk-in rates:** In shoulder and low season, walking in and asking can get you a better deal than online. In high season, this is risky since good places fill up.
--->
+- **High season (December to February):** Prices are at their highest and the best places fill up months ahead. For a stay in December or January, book by October or November.
+- **Shoulder season (November, March and April):** Easier to find a place and cheaper. A few days ahead is usually enough.
+- **Low season (May to October):** Some places close, but plenty stay open, especially around Long Beach and Klong Dao, often at 30-50% less. Check that a place is actually open before you book, as some show up on booking sites while they're closed.
+- **Monthly rates:** Most places will do a monthly rate if you ask, especially for four weeks or more. That usually works in person or over WhatsApp, not through booking sites.
+- **Booking sites:** Compare Agoda and Booking.com. Prices differ, and some smaller places are only on one of them.
+- **Walk-ins:** Outside high season, walking in and asking can get you a better price than online. In high season it's risky, since the good places are full.

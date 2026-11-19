@@ -38,6 +38,10 @@ Pub Quiz at the [Irish Embassy](https://www.google.com/maps/search/?api=1&query=
 
 [Pangea](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta) - Also on Sundays. See Tuesday for how to get there.
 
+## New Year's Eve
+
+Most beach bars on Long Beach and Klong Khong throw a party on New Year's Eve, and in previous years the beach lit up with fireworks at midnight. Pangea and Fusion Bar have both hosted New Year's parties before. Plans change every year, so check their Instagram or Facebook in late December.
+
 ## Is there a full moon party on Koh Lanta?
 
 Not like the famous one on Koh Phangan. Koh Lanta's big monthly party is the New Moon Party instead.
