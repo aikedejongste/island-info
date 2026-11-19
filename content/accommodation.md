@@ -1,12 +1,13 @@
 ---
-title: "Accommodation"
-description: "How to find accommodation on Koh Lanta as a remote worker. Bungalows, resorts and budget stays near Long Beach with monthly rates and booking tips."
+title: "Where to stay"
+seotitle: "Where to Stay on Koh Lanta: Bungalows and Monthly Stays"
+description: "Where to stay on Koh Lanta as a remote worker: bungalows, resorts and budget stays near Long Beach, coliving at KoHub, monthly rates and when to book."
 weight: 3
 icon: "🏠"
 group: "getting-started"
 ---
 
-Most nomads stay around [Long Beach (Phra Ae)](https://www.google.com/maps/search/?api=1&query=Long+Beach+Phra+Ae+Koh+Lanta) since it's close to [KoHub](/coworking). Prices vary a lot by season. High season (Dec-Feb) books up fast and costs roughly double what you'd pay in shoulder months (Nov, Mar-Apr). If you're coming in peak season, book ahead. Outside of that, you can often just show up and walk around.
+Most nomads on Koh Lanta stay in a bungalow or small resort around [Long Beach (Phra Ae)](https://www.google.com/maps/search/?api=1&query=Long+Beach+Phra+Ae+Koh+Lanta) since it's close to [KoHub](/coworking). Prices vary a lot by season. High season (Dec-Feb) books up fast and costs roughly double what you'd pay in shoulder months (Nov, Mar-Apr). If you're coming in peak season, book ahead. Outside of that, you can often just show up and walk around.
 
 Some places are cheaper when you message them directly on WhatsApp or Facebook. Monthly rates are almost always negotiable in person.
 
@@ -16,10 +17,12 @@ The obvious pick if you want the full coliving/coworking setup. Private bungalow
 
 Packages are all-inclusive (room + coworking + two meals/day):
 
-- Low season (Nov, Apr): ~49,500 THB/month
-- High season (Dec-Mar): ~59,500 THB/month
-- Multi-month stays get a small discount
-- Open November through April only.
+- November and April: 49,500 THB/month
+- December and March: 69,500 THB/month
+- January and February: 89,500 THB/month
+- Closed May to October.
+
+Prices are from [KoHub's packages page](https://kohub.org/packages?ref=lantanomads.com) for the 2026-27 season.
 
 The community aspect is the main draw. Weekly events, communal lunches, island trips. It's not the cheapest option, but you're paying for convenience and not having to figure everything out yourself.
 
@@ -90,13 +93,13 @@ These are on the list from locals but don't have much of an online footprint. Wo
 
 - **Forest House** - ask around near Long Beach
 - **The Travellers Friend Bungalows** - small local guesthouse
+-->
 
 ## Tips for booking
 
-- **High season (Dec-Feb):** Book at least a few weeks ahead for the popular spots. Prices are at their highest.
-- **Shoulder season (Nov, Mar-Apr):** Good availability, reasonable prices. You can book a few days before or just show up.
-- **Low season (May-Oct):** Many places close entirely. Those that stay open offer big discounts (50%+), but the island is very quiet and some restaurants shut down too.
-- **Monthly rates:** Most places will negotiate a monthly rate if you ask, especially for stays of 4+ weeks. This usually only works in person or via WhatsApp, not through booking platforms.
-- **Agoda vs Booking.com:** Compare both. Agoda tends to have better prices for Thai hotels. Some smaller places are only on one platform.
-- **Walk-in rates:** In shoulder and low season, walking in and asking can get you a better deal than online. In high season, this is risky since good places fill up.
--->
+- **High season (December to February):** Prices are at their highest and the best places fill up months ahead. For a stay in December or January, book by October or November.
+- **Shoulder season (November, March and April):** Easier to find a place and cheaper. A few days ahead is usually enough.
+- **Low season (May to October):** Some places close, but plenty stay open, especially around Long Beach and Klong Dao, often at 30-50% less. Check that a place is actually open before you book, as some show up on booking sites while they're closed.
+- **Monthly rates:** Most places will do a monthly rate if you ask, especially for four weeks or more. That usually works in person or over WhatsApp, not through booking sites.
+- **Booking sites:** Compare Agoda and Booking.com. Prices differ, and some smaller places are only on one of them.
+- **Walk-ins:** Outside high season, walking in and asking can get you a better price than online. In high season it's risky, since the good places are full.
