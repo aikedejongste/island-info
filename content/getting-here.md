@@ -20,26 +20,28 @@ Check the [visa rules for Koh Lanta](/visa/) before you book: since September 20
 | [Krabi Airport](/krabi-airport-to-koh-lanta/) | Shared minivan or private transfer | 2-2.5 hrs + ferry queue |
 | [Bangkok](/bangkok-to-koh-lanta/) | Fly to Krabi, then transfer | 5-6 hrs |
 | [Chiang Mai](/chiang-mai-to-koh-lanta/) | Direct flight to Krabi, then transfer | 6-7 hrs |
-| Phuket, Phi Phi, Ao Nang | Ferry or speedboat (see below) | 45 min-4 hrs |
+| Phuket, Phi Phi, Ao Nang | Ferry or speedboat (see below) | 30 min-4 hrs |
 
 </div>
 
 ## By ferry from other islands
 
-During high season (November to April), ferries connect Koh Lanta to Phuket, Phi Phi, Ao Nang, and other islands. Many routes run a reduced service or stop in low season.
+Boats from Phuket and Phi Phi run all year, with fewer sailings in low season (May to October). Speedboats from Ao Nang pause for part of the low season, and most island-hopping routes, like Koh Lipe or Koh Ngai, only run from about mid-October or November to April or May.
 
 <div class="table-wrap">
 
 | From | Time | Approx. price |
 |---|---|---|
-| Koh Phi Phi (ferry) | 1.5 hrs | 400-500 THB |
-| Koh Phi Phi (speedboat) | 45 min | 600-800 THB |
-| Phuket | 1.5 hrs (speedboat) to 4 hrs (ferry) | 600-1,500 THB |
-| Ao Nang | 1.5 hrs | 400-600 THB |
+| Koh Phi Phi (ferry) | about 1 hr | 400-600 THB |
+| Koh Phi Phi (speedboat) | 30-45 min | 600-725 THB |
+| Phuket (speedboat) | 1.5-2 hrs | 900-1,500 THB |
+| Phuket (ferry via Phi Phi) | about 4 hrs | 800-1,000 THB |
+| Ao Nang (speedboat) | 1-1.75 hrs | 900-1,250 THB |
+| Ao Nang (ferry) | 2.5 hrs | 480-660 THB |
 
 </div>
 
-Operators include Tigerline Ferry, Bundhaya Speed Boat, Andaman Wave Master, and Satun Pakbara SpeedBoat Club. Book through travel agencies in Saladan or online through <a href="https://www.ferryhopper.com/en/ferries/thailand/koh-lanta" target="_blank" rel="noopener">Ferryhopper</a> or 12Go Asia. In peak months (December/January), book at least a few days ahead as popular routes sell out.
+Operators include Bundhaya Speed Boat, Andaman Wave Master, Satun Pakbara SpeedBoat Club, Tigerline Ferry, and the slower Chaokoh and Lanta Petpailin ferries. Speedboats from Phuket leave from Rassada Pier, Tigerline from Chean Vanich Pier. Book through travel agencies in Saladan or online through <a href="https://www.ferryhopper.com/en/ferries/thailand/koh-lanta" target="_blank" rel="noopener">Ferryhopper</a> or 12Go Asia. In peak months (December/January), book at least a few days ahead as popular routes sell out.
 
 All ferries arrive at <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Pier+Koh+Lanta" target="_blank" rel="noopener">Saladan Pier</a> on the northern tip of the island.
 

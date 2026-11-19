@@ -49,7 +49,7 @@ There's no road bridge from the mainland yet. Every car and minivan crosses on a
 
 - The ferry runs from about 6am to 10pm. It doesn't run at night.
 - There's no timetable. It leaves when it's full, and the crossing takes 10-20 minutes.
-- Passengers get out of the car and buy their own ticket (a few dozen baht). The driver takes the car across.
+- Passengers get out of the car and buy their own ticket at the booth before the pier. Expect about 20 THB per person and 60-100 THB per car (foreigners pay more than Thais). The driver takes the car across.
 - In high season, especially December and January afternoons, the queue can add one to two hours or more.
 
 ### Landing late?
