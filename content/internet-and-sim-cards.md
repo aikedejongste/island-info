@@ -33,7 +33,7 @@ KoHub reports power cuts about once a month, usually for a couple of hours. If y
 
 ## SIM cards and eSIMs
 
-The two big mobile networks are AIS and True (dtac is now part of True). Coverage differs a bit from place to place on the island, so if one has weak signal at your bungalow, the other may be fine.
+The two big mobile networks are AIS and True (dtac is now part of True). Coverage differs from place to place on the island. Around Long Beach, dtac has the best coverage in our experience. If your signal is weak at your bungalow, try the other network.
 
 You have two options:
 
