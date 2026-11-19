@@ -9,6 +9,8 @@ group: "getting-started"
 
 Most people fly into Krabi and take a road transfer. From Bangkok, count on 5-6 hours door to door: the flight itself is short, but the transfer and ferry crossing eat up the rest.
 
+Check the [visa rules for Koh Lanta](/visa/) before you book: since September 2026 most nationalities get 30 days visa-free, not 60.
+
 ## Fly to Krabi, then drive
 
 Krabi Airport is the closest airport. Direct flights from Bangkok take about 1.5 hours. Thai Airways and Bangkok Airways fly from Suvarnabhumi (BKK). Budget airlines like AirAsia, Nok Air, and Thai Lion Air fly from Don Mueang (DMK).
