@@ -8,7 +8,7 @@ group: "getting-started"
 
 Most visitors get **30 days visa-free** in Thailand, and you can extend that once by another 30 days. There's no immigration office on Koh Lanta itself, but visa agents on the island can handle the extension for you.
 
-> ⚠️ **Changed in September 2026:** Thailand cut visa-free stays from 60 to 30 days and shortened the list of eligible countries to [60 countries and territories](https://www.nationthailand.com/news/tourism/40070511). A lot of websites still say 60 days. Check that your country is on the list before you book.
+> ⚠️ **Changed on 15 September 2026:** Thailand cut visa-free stays from 60 to 30 days and shortened the list of eligible countries to 60 countries and territories ([official notice in the Royal Gazette](https://ratchakitcha.soc.go.th/documents/128703.pdf), in Thai; [English list](https://www.nationthailand.com/news/tourism/40070511)). A lot of websites still say 60 days. Check that your country is on the list before you book.
 
 Want to stay longer from the start? Apply for a tourist visa before your trip. It gives you 60 days per entry.
 
