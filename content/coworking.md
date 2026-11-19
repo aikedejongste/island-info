@@ -1,12 +1,12 @@
 ---
-title: "Coworking"
+title: "Coworking spaces"
 description: "Coworking spaces and work-friendly cafes on Koh Lanta. KoHub, Monkey Business, Fika, Coworx, and cafes with fast WiFi for remote work."
 weight: 1
 icon: "💻"
 group: "work"
 ---
 
-The island has fiber internet along the west coast from Saladan down to Klong Nin. Cafes average around 180 Mbps, and the dedicated coworking spaces hit 1 Gbps. You won't have connectivity problems here.
+Koh Lanta has four coworking spaces (KoHub, Monkey Business, Fika and Coworx) and several cafes that work just as well for a day at the laptop. The island has fiber internet along the west coast from Saladan down to Klong Nin. Cafes average around 180 Mbps, and the dedicated coworking spaces hit 1 Gbps. You won't have connectivity problems here.
 
 ## Coworking spaces
 
