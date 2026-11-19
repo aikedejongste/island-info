@@ -8,8 +8,6 @@ group: "getting-started"
 
 There's no public transport on Koh Lanta. Most people rent a scooter and that's pretty much all you need. The island is about 30km from north to south, so even the longest trip only takes around 40 minutes.
 
-Ride-hailing isn't an option either: [there's no Grab on Koh Lanta](/grab/), and no Bolt or anything similar. Scooters and call-ahead taxis are what everyone uses.
-
 ![Scooter on a tropical road lined with palm trees](/images/scooter-tropical-road.jpg)
 
 ## Getting to the island
@@ -83,7 +81,7 @@ When you inevitably get a flat, head to this <a href="https://maps.app.goo.gl/cS
 
 ## Taxis on the island
 
-With [no ride-hailing apps](/grab/) here, taxis are old-school: you call or message someone directly. They're useful when you have a lot of luggage or need to get somewhere late at night.
+[There's no Grab on Koh Lanta](/grab/), so you call or message a taxi driver directly. Taxis are handy when you have a lot of luggage or need to get somewhere late at night.
 
 Expect to pay 200-500 THB depending on distance. Agree on the price before you get in.
 
