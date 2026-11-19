@@ -103,4 +103,4 @@ Book a few days ahead during peak season (December/January), as popular routes s
 
 ## Day trips by boat
 
-Longtail boats can be hired for day trips to the nearby islands (Koh Rok, four islands tour, etc.). You'll find tour operators all over Saladan and along Long Beach.
+Longtail boats can be hired for day trips to the nearby islands (Koh Rok, four islands tour, etc.). You'll find tour operators all over Saladan and along Long Beach. See [island trips and snorkelling](/island-trips-and-snorkelling/) for what each trip includes and costs.

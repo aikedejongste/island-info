@@ -4,11 +4,9 @@ description: "Things to do on Koh Lanta: Thai cooking classes at Time for Lime a
 weight: 2
 icon: "🎯"
 group: "explore"
-aliases:
-  - /trips/
 ---
 
-Things to do on Koh Lanta when you're not working or on the beach: a Thai cooking class, go-karting, kayaking through the mangroves and a good massage.
+Things to do on Koh Lanta when you're not working or on the beach: a Thai cooking class, go-karting, kayaking through the mangroves and a good massage. For boat trips to the islands, see [island trips and snorkelling](/island-trips-and-snorkelling/).
 
 ## Cooking Classes
 
