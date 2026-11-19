@@ -1,12 +1,13 @@
 ---
-title: "Accommodation"
-description: "How to find accommodation on Koh Lanta as a remote worker. Bungalows, resorts and budget stays near Long Beach with monthly rates and booking tips."
+title: "Where to stay"
+seotitle: "Where to Stay on Koh Lanta: Bungalows and Monthly Stays"
+description: "Where to stay on Koh Lanta as a remote worker: bungalows, resorts and budget stays near Long Beach, coliving at KoHub, monthly rates and when to book."
 weight: 3
 icon: "🏠"
 group: "getting-started"
 ---
 
-Most nomads stay around [Long Beach (Phra Ae)](https://www.google.com/maps/search/?api=1&query=Long+Beach+Phra+Ae+Koh+Lanta) since it's close to [KoHub](/coworking). Prices vary a lot by season. High season (Dec-Feb) books up fast and costs roughly double what you'd pay in shoulder months (Nov, Mar-Apr). If you're coming in peak season, book ahead. Outside of that, you can often just show up and walk around.
+Most nomads on Koh Lanta stay in a bungalow or small resort around [Long Beach (Phra Ae)](https://www.google.com/maps/search/?api=1&query=Long+Beach+Phra+Ae+Koh+Lanta) since it's close to [KoHub](/coworking). Prices vary a lot by season. High season (Dec-Feb) books up fast and costs roughly double what you'd pay in shoulder months (Nov, Mar-Apr). If you're coming in peak season, book ahead. Outside of that, you can often just show up and walk around.
 
 Some places are cheaper when you message them directly on WhatsApp or Facebook. Monthly rates are almost always negotiable in person.
 
@@ -16,10 +17,12 @@ The obvious pick if you want the full coliving/coworking setup. Private bungalow
 
 Packages are all-inclusive (room + coworking + two meals/day):
 
-- Low season (Nov, Apr): ~49,500 THB/month
-- High season (Dec-Mar): ~59,500 THB/month
-- Multi-month stays get a small discount
-- Open November through April only.
+- November and April: 49,500 THB/month
+- December and March: 69,500 THB/month
+- January and February: 89,500 THB/month
+- Closed May to October.
+
+Prices are from [KoHub's packages page](https://kohub.org/packages?ref=lantanomads.com) for the 2026-27 season.
 
 The community aspect is the main draw. Weekly events, communal lunches, island trips. It's not the cheapest option, but you're paying for convenience and not having to figure everything out yourself.
 
