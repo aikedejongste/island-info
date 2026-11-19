@@ -9,9 +9,11 @@ The quickest way from Chiang Mai to Koh Lanta is a direct flight to Krabi, then 
 ## Direct flights to Krabi
 
 - **Thai AirAsia** flies Chiang Mai to Krabi direct two to three times a day. The morning flight gets you to Koh Lanta by early afternoon.
-- **Bangkok Airways** flies direct a few times a week, in the winter season only.
+- **Bangkok Airways** also lists a direct flight a few times a week in the winter season. Check the current schedule, as it has been suspended before.
 
-Other airlines (Thai Lion Air, Nok Air, Thai Airways, Thai Vietjet) connect through Bangkok, even when booking sites call the flight "direct". With a connection, count on 7-9 hours or more door to door.
+Direct flights aren't cheap: expect roughly 3,500-5,000 THB one way in high season, booked a few weeks ahead.
+
+Other airlines (Thai Lion Air, Nok Air, Thai Airways, Thai Vietjet) connect through Bangkok, even when booking sites call the flight "direct". A connection is often cheaper than the direct flight, but count on 7-9 hours or more door to door.
 
 From Krabi Airport, take a shared minivan or private transfer to the island. See [Krabi Airport to Koh Lanta](/krabi-airport-to-koh-lanta/) for prices, the car ferry and what to do if you land late.
 

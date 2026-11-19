@@ -13,7 +13,7 @@ Flights take about 1.5 hours and there are dozens a day from both Bangkok airpor
 - **Suvarnabhumi (BKK):** Bangkok Airways, Thai AirAsia, Thai Airways and Thai Vietjet
 - **Don Mueang (DMK):** Thai AirAsia, Nok Air and Thai Lion Air
 
-Booked a few weeks ahead, one-way fares are often around 900-2,000 THB. From Krabi Airport it's about 2 hours by car to the island, plus the car ferry. See [Krabi Airport to Koh Lanta](/krabi-airport-to-koh-lanta/) for minivans, private transfers and what to do if you land late.
+Booked a few weeks ahead, one-way fares on the budget airlines usually run about 1,200-2,000 THB, with checked bags extra. Thai Airways and Bangkok Airways include a bag but cost more. Book only a few days ahead and you can pay double. From Krabi Airport it's about 2 hours by car to the island, plus the car ferry. See [Krabi Airport to Koh Lanta](/krabi-airport-to-koh-lanta/) for minivans, private transfers and what to do if you land late.
 
 ## Krabi or Phuket?
 
