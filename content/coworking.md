@@ -16,7 +16,7 @@ Koh Lanta has four coworking spaces (KoHub, Monkey Business, Fika and Coworx) an
 
 They also do coliving packages with a private room and meals included.
 
-**Seasonal: open November through April only.** Closed during low season.
+**Seasonal: open November through April only.** Closed during low season (see the [best time to visit Koh Lanta](/best-time-to-visit-koh-lanta/)).
 
 <ul class="price-list">
   <li><span class="price-label">Day pass</span> <span class="price-value">400 THB</span></li>

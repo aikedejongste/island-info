@@ -53,5 +53,6 @@ All ferries arrive at <a href="https://www.google.com/maps/search/?api=1&query=S
 <li>The car ferry from Hua Hin pier to Koh Lanta Noi is the only road connection to the mainland. It runs from about 6am to 10pm, so <a href="/krabi-airport-to-koh-lanta/#landing-late">plan ahead if you land late</a>. A bridge from the mainland is planned to open in 2029.</li>
 <li>Coming from Phuket by road rather than by boat takes about 5 hours or more.</li>
 <li>Travel agencies all over Saladan sell combined tickets for any route. Prices are similar everywhere.</li>
+<li>Not sure when to come? See the <a href="/best-time-to-visit-koh-lanta/">best time to visit Koh Lanta</a>.</li>
 </ul>
 </div>

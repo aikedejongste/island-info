@@ -97,7 +97,7 @@ These are on the list from locals but don't have much of an online footprint. Wo
 
 ## Tips for booking
 
-- **High season (December to February):** Prices are at their highest and the best places fill up months ahead. For a stay in December or January, book by October or November.
+- **High season (December to February):** Prices are at their highest and the best places fill up months ahead. For a stay in December or January, book by October or November. See the [best time to visit Koh Lanta](/best-time-to-visit-koh-lanta/) for what each season is like.
 - **Shoulder season (November, March and April):** Easier to find a place and cheaper. A few days ahead is usually enough.
 - **Low season (May to October):** Some places close, but plenty stay open, especially around Long Beach and Klong Dao, often at 30-50% less. Check that a place is actually open before you book, as some show up on booking sites while they're closed.
 - **Monthly rates:** Most places will do a monthly rate if you ask, especially for four weeks or more. That usually works in person or over WhatsApp, not through booking sites.
