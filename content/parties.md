@@ -20,7 +20,7 @@ Pub Quiz at the [Irish Embassy](https://www.google.com/maps/search/?api=1&query=
 
 ## Wednesday
 
-[Free Descent](https://www.google.com/maps/search/?api=1&query=Free+Descent+Bar+Koh+Lanta) - Bar near the beach in Saladan with free pool tables and a dance floor. See Saturday for more.
+[Free Descent](https://www.google.com/maps/search/?api=1&query=Free+Descent+Bar+Koh+Lanta) - Karaoke night at this bar near the beach in Saladan, with free pool tables and a dance floor. You get a free shot every time you sing.
 
 ## Thursday
 
@@ -32,7 +32,7 @@ Pub Quiz at the [Irish Embassy](https://www.google.com/maps/search/?api=1&query=
 
 ## Saturday
 
-[Free Descent](https://www.google.com/maps/search/?api=1&query=Free+Descent+Bar+Koh+Lanta) is a lively bar near the beach in Saladan with a cave-like feel, free pool tables and an energetic dance floor. Saturday is karaoke night, and you get a free shot every time you sing.
+[Free Descent](https://www.google.com/maps/search/?api=1&query=Free+Descent+Bar+Koh+Lanta) is a lively bar near the beach in Saladan with a cave-like feel, free pool tables and an energetic dance floor. Saturday is karaoke night too, with the same free shot every time you sing.
 
 [Korner Bar](https://www.google.com/maps/search/?api=1&query=Korner+Bar+Koh+Lanta) is a relaxed beach bar that turns into a party place after 22h. It has good DJ's, dance music and well-priced drinks. It's where the Saturday crowd heads after Free Descent to keep going until 2:45 AM.
 
