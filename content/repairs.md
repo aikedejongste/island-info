@@ -1,12 +1,14 @@
 ---
-title: "Fixing things"
-description: "Where to get things repaired on Koh Lanta. Laptop repair, phone screen fixes, scooter flat tires and other practical repair services on the island."
+title: "Phone, laptop and scooter repair"
+description: "Where to get a phone, laptop or scooter repaired on Koh Lanta: phone repair shops, computer repair and a tire shop for flat tires."
 weight: 3
 icon: "🔧"
 group: "practical"
+aliases:
+  - /fixing/
 ---
 
-Things break, especially in the heat and humidity. Here's where nomads and locals get laptops, phones and scooters fixed on Koh Lanta.
+Need a phone, laptop or scooter repaired on Koh Lanta? These are the places nomads and locals use. Things break fast in the heat and humidity.
 
 ## Laptops
 
