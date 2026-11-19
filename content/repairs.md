@@ -23,4 +23,4 @@ We don't currently have a laptop repair place we can vouch for — the previous 
 
 ## Scooters
 
-Flat tires and other scooter issues: [only Thai name but here is the link](https://maps.app.goo.gl/12mZm2EPtnCXywhq7)
+Flat tires and other scooter issues: [Phut Yanyon (พุฒยานยนต์)](https://maps.app.goo.gl/cSukRtbw65ANbrgo6) in Sala Dan.
