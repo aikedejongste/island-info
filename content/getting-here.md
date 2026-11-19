@@ -26,7 +26,7 @@ Check the [visa rules for Koh Lanta](/visa/) before you book: since September 20
 
 ## By ferry from other islands
 
-Boats from Phuket, Phi Phi and Ao Nang run all year, with fewer sailings in low season (May to October). Most island-hopping routes, like Koh Lipe or Koh Ngai, only run from about mid-October or November to April or May.
+Boats from Phuket and Phi Phi run all year, with fewer sailings in low season (May to October). Speedboats from Ao Nang pause for part of the low season, and most island-hopping routes, like Koh Lipe or Koh Ngai, only run from about mid-October or November to April or May.
 
 <div class="table-wrap">
 
