@@ -6,7 +6,7 @@ icon: "📋"
 group: "getting-started"
 ---
 
-Most visitors get **30 days visa-free** in Thailand, and you can extend that once by another 30 days. There's no immigration office on Koh Lanta itself, but visa agents on the island can handle the extension for you.
+Most visitors get **30 days visa-free** in Thailand, and you can extend that once by another 30 days. There's no immigration office on Koh Lanta itself, so extensions mean a trip to Krabi Town. Visa agents on the island can help with the paperwork.
 
 > ⚠️ **Changed on 15 September 2026:** Thailand cut visa-free stays from 60 to 30 days and shortened the list of eligible countries to 60 countries and territories ([official notice in the Royal Gazette](https://ratchakitcha.soc.go.th/documents/128703.pdf), in Thai; [English list](https://www.nationthailand.com/news/tourism/40070511)). A lot of websites still say 60 days. Check that your country is on the list before you book.
 
@@ -16,11 +16,11 @@ Before you fly, fill out the [Thailand Digital Arrival Card (TDAC)](https://tdac
 
 ## Is there an immigration office on Koh Lanta?
 
-No. Koh Lanta is part of Krabi province, so extensions and other immigration paperwork go through the [Krabi Immigration Office](https://www.google.com/maps/search/?api=1&query=Krabi+Immigration+Office) in Krabi Town on the mainland. Most people skip the trip and use one of the [visa agents on the island](#visa-agents-on-koh-lanta) instead.
+No. Koh Lanta is part of Krabi province, so extensions and other immigration paperwork go through the [Krabi Immigration Office](https://www.google.com/maps/search/?api=1&query=Krabi+Immigration+Office) in Krabi Town on the mainland. [Thai Immigration](https://www.immigration.go.th/?p=14695) requires you to apply for an extension in person, but one of the [visa agents on the island](#visa-agents-on-koh-lanta) can prepare the paperwork and arrange the trip.
 
 ## Extending your stay
 
-A 30-day extension costs 1,900 THB, paid in cash. A visa-free stay can only be extended once. Bring:
+A 30-day extension costs 1,900 THB, paid in cash, and you apply in person at the immigration office. A visa-free stay can only be extended once. Bring:
 
 - Your passport, plus copies of the photo page and your entry stamp
 - A passport photo
@@ -29,7 +29,7 @@ A 30-day extension costs 1,900 THB, paid in cash. A visa-free stay can only be e
 
 ## Visa agents on Koh Lanta
 
-They can handle extensions, 90-day reports, and re-entry permits. You give them your passport and they bring it back done.
+They can handle extensions, 90-day reports, and re-entry permits. You give them your passport and they bring it back done. For an extension you still have to show up at the immigration office yourself.
 
 - **PJ**: [WhatsApp +66892896330](https://wa.me/66892896330?text=Hi,%20my%20name%20is%20..%20and%20I%20found%20you%20on%20LantaNomads.com.%20Can%20you%20help%20me..?)
 - **Concierge Lanta**: [conciergelanta.com](https://conciergelanta.com/?ref=lantanomads.com)
