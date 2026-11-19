@@ -1,12 +1,12 @@
 ---
 title: "Gyms and fitness"
-description: "Gyms and fitness on Koh Lanta: WM Fitness, Luke's Gym, a free beach gym, group fitness classes and yoga. Locations, equipment and day pass prices."
+description: "Gyms and fitness on Koh Lanta: WM Fitness, Luke's Gym, a beach gym, group fitness classes and yoga. Locations, equipment and day pass prices."
 weight: 3
 icon: "💪"
 group: "explore"
 ---
 
-Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Luke's Gym in Klong Khong. Both charge 200 THB for a day pass. There's also a free beach gym and a few group fitness classes.
+Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Luke's Gym in Klong Khong. Both charge 200 THB for a day pass. There's also a cheap beach gym where your entry fee gets you a food and drink voucher, plus a few group fitness classes.
 
 ## Gyms
 
@@ -20,7 +20,7 @@ Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Lu
 
 ### Thai CAT Sport Center
 
-[Thai CAT Sport Center](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6) - Free fan-cooled gym near the beach where you can do a full workout with a bit of creativity. They have a sign asking guests to buy a drink or food to support the gym, but there is no hard pressure. A nice routine is to train first, then order a Pad Thai at their beach restaurant and cool off in the sea while your lunch is prepared.
+[Thai CAT Sport Center](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6) - Fan-cooled gym near the beach where you can do a full workout with a bit of creativity. Entry is 100 THB per person, and you get a voucher to spend on food or drinks at their beach restaurant. A nice routine is to train first, then use the voucher on a Pad Thai and cool off in the sea while your lunch is prepared.
 
 Equipment (March 2026):
 
