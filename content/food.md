@@ -7,7 +7,7 @@ icon: "🍜"
 group: "food-and-going-out"
 ---
 
-Where to eat on Koh Lanta, from breakfast spots to seafood dinners, plus how to get food delivered. Worried about food hygiene? Read our tips on [staying healthy while eating out](/health/#staying-healthy-how-to-reduce-your-risk-of-getting-sick).
+Where to eat on Koh Lanta, from breakfast spots to seafood dinners, plus how to get food delivered. Worried about food hygiene? Read our tips on [staying healthy while eating out](/health/#how-to-avoid-food-poisoning).
 
 ## Breakfast places
 

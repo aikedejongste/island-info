@@ -1,18 +1,29 @@
 ---
-title: "Health & Beauty"
-description: "Healthcare and beauty on Koh Lanta. Doctors, clinics, dentists, nail studios and barbers on the island."
+title: "Doctors, dentists & beauty"
+seotitle: "Doctors, Dentists and Clinics on Koh Lanta"
+description: "Doctors, clinics, the hospital and dentists on Koh Lanta, with 24-hour emergency care, plus nail studios, barbers and how to avoid food poisoning."
 weight: 1
 icon: "🏥"
 group: "practical"
 ---
 
-## Medical
+Where to find a doctor, clinic or dentist on Koh Lanta, including 24-hour emergency care, plus nail studios and barbers.
 
-You can walk in to all clinics. [Dr. Salarin](https://www.google.com/maps/search/?api=1&query=Dr+Salarin+Clinic+Phra+Ae+Koh+Lanta) is a good GP on Long Beach. For something more advanced with testing, [Dr. Pad in Saladan](https://www.google.com/maps/search/?api=1&query=Dr+Pad+Clinic+Saladan+Koh+Lanta) is a good option. Dr. Pad also offers the [Qdenga dengue vaccine](https://drpadclinic.com/product/dengue-vaccine-qdenga/) (two doses, three months apart). [Thonburi Lanta](https://www.google.com/maps/search/?api=1&query=Thonburi+Lanta+Medical+Clinic+Koh+Lanta) offers 24-hour emergency care.
+## Doctors and clinics
+
+You can walk in to all clinics.
+
+- [Dr. Salarin](https://www.google.com/maps/search/?api=1&query=Dr+Salarin+Clinic+Phra+Ae+Koh+Lanta) - A good GP on Long Beach.
+- [Dr. Pad in Saladan](https://www.google.com/maps/search/?api=1&query=Dr+Pad+Clinic+Saladan+Koh+Lanta) - For something more advanced. Blood tests, ultrasound, X-ray and EKG on site, and they can send a doctor to your hotel. Open every day, with an emergency line and ambulance around the clock. Dr. Pad also offers the [Qdenga dengue vaccine](https://drpadclinic.com/product/dengue-vaccine-qdenga/) (two doses, three months apart).
+- [Thonburi Lanta](https://www.google.com/maps/search/?api=1&query=Thonburi+Lanta+Medical+Clinic+Koh+Lanta) - Outpatient clinic from 8:00 to 20:00, and a 24-hour emergency room with ambulance transfer. About 8 minutes from Saladan pier.
+- [Koh Lanta Hospital](https://www.google.com/maps/search/?api=1&query=Koh+Lanta+Hospital) - The public hospital, open 24 hours.
 
 ## Dentists
 
-- [Lanta Dente](https://www.google.com/maps/search/?api=1&query=Lanta+Dente+Koh+Lanta) - Only dentist on the island, on Khlong Dao road.
+There are two dental clinics on the island:
+
+- [Lanta Denté](https://www.google.com/maps/search/?api=1&query=Lanta+Dente+Koh+Lanta) - On Khlong Dao road. Check-ups and cleaning, root canals, implants, whitening and 3D X-ray. Open Monday to Friday, 9:00 to 18:00. See [lantadente.com](https://lantadente.com/).
+- [Lanta Smile Dental Clinic](https://www.google.com/maps/search/?api=1&query=Lanta+Smile+Dental+Clinic+Koh+Lanta) - The island's other dental clinic.
 
 ## Nails
 
