@@ -18,6 +18,10 @@ Pub Quiz at the [Irish Embassy](https://www.google.com/maps/search/?api=1&query=
 
 [Pangea](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta), starts at 21:00. A stylish beach bar (for Koh Lanta) on Long Beach with cushions right by the sea, well-made cocktails and fresh coconuts. Sunsets, techno and deep house. To get there go to Lym's and walk south on the beach or go directly from the main road over a dirt road. Happy hour runs 17:00–21:00.
 
+## Wednesday
+
+[Free Descent](https://www.google.com/maps/search/?api=1&query=Free+Descent+Bar+Koh+Lanta) - Bar near the beach in Saladan with free pool tables and a dance floor. See Saturday for more.
+
 ## Thursday
 
 [Ozone Bar](https://www.google.com/maps/search/?api=1&query=The+Ozone+Beach+Bar+Club+Koh+Lanta), starts at 22:00 until 3 AM. On Long Beach and the party on Thursdays runs late with DJs and electronic music.
