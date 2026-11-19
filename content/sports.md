@@ -1,6 +1,6 @@
 ---
 title: "Gyms and fitness"
-description: "Gyms and fitness on Koh Lanta: WM Fitness, Luke's Gym, a beach gym, group fitness classes and yoga. Locations, equipment and day pass prices."
+description: "Gyms and fitness on Koh Lanta: WM Fitness, Luke's Gym, a beach gym, Muay Thai, group fitness classes and yoga. Locations, equipment and day pass prices."
 weight: 3
 icon: "💪"
 group: "explore"
@@ -40,6 +40,20 @@ Equipment (March 2026):
 
 ## Muay Thai
 
+Koh Lanta has several Muay Thai gyms for every level, from first-timers to people preparing for a fight. Most run group classes in the morning and late afternoon.
+
+### Lanta Muay Thai Complex
+
+[Lanta Muay Thai Complex](https://www.google.com/maps/search/?api=1&query=Lanta+Muay+Thai+Complex+Koh+Lanta) - Near Klong Dao. Beginner, intermediate/advanced and kids' classes, plus private lessons and sparring. Group classes come as packages: 1,800 THB for 5 sessions, 2,200 THB for a week, 7,500 THB for a month (one session a day). Open daily 8am to 7:30pm. See [lantamuaythaicomplex.com](https://www.lantamuaythaicomplex.com/pricing-plans/prices) for all prices.
+
+### Lanta Muay Thai Academy
+
+[Lanta Muay Thai Academy](https://www.google.com/maps/search/?api=1&query=Lanta+Muay+Thai+Academy+Koh+Lanta) - Long Beach area, and the gym with the most Google reviews on the island. Check their [Instagram](https://www.instagram.com/lantamuaythaiacademy/) for current class times and prices.
+
+### Rainbow Muay Thai
+
+[Rainbow Muay Thai](https://www.google.com/maps/search/?api=1&query=Rainbow+Muay+Thai+Koh+Lanta) - Klong Dao area, with near-perfect Google reviews. No website, so call them on [094 517 2021](tel:+66945172021) for times and prices.
+
 ## Classes
 
 [Fit On Lanta](https://maps.app.goo.gl/KV93eCEPcVzbbv829) - Group fitness classes in the morning and evening. Classes include HIIT, strength training, yoga, and more. Suitable for all fitness levels. See [website](https://www.fitonlanta.com/prices) for class schedule and pricing information.
@@ -48,4 +62,10 @@ Equipment (March 2026):
 
 ## Yoga
 
-[Oasis Yoga]
+### Oasis Yoga
+
+[Oasis Yoga](https://www.google.com/maps/search/?api=1&query=Oasis+Yoga+Bungalows+Koh+Lanta) - Yoga in a tree house studio at Oasis Yoga Bungalows on Klong Dao. Classes every morning, plus afternoon classes on some days: Vinyasa flow, yin and sunset stretch. Non-guests are welcome. There are no reservations, so just turn up (check-in opens 35 minutes before class). Mats are provided. A class costs 400 THB, 10 classes 3,000 THB, or 4,500 THB for a monthly unlimited pass, and meditation is free. The schedule changes every month, see [oasisyogabungalows.com](https://www.oasisyogabungalows.com/yoga.html).
+
+### Lanta Yoga
+
+[Lanta Yoga](https://www.google.com/maps/search/?api=1&query=Lanta+Yoga+Koh+Lanta) - Small studio in the Long Beach area. Vinyasa flow on Monday, Wednesday and Friday from 9 to 10:30am. 300 THB per class or 2,500 THB for 10 classes. See [lanta-yoga.com](https://www.lanta-yoga.com/schedule-prices) for the current schedule.
