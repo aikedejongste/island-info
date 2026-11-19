@@ -1,7 +1,7 @@
 ---
 title: "Is there Grab on Koh Lanta?"
 seotitle: "Is There Grab on Koh Lanta?"
-description: "No. Grab and other ride-hailing apps don't work on Koh Lanta. Here's how to get around instead."
+description: "No. Grab, Bolt and other ride-hailing apps don't work on Koh Lanta. How to get around instead: scooters, taxi drivers on WhatsApp and tuk-tuks."
 weight: 4
 icon: "🚗"
 group: "practical"

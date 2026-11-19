@@ -1,7 +1,7 @@
 ---
 title: "Krabi Airport to Koh Lanta"
 seotitle: "Krabi Airport to Koh Lanta"
-description: "How to get from Krabi Airport to Koh Lanta: shared minivan (400-550 THB), private transfer (2,100-3,300 THB), Grab, the car ferry and what to do with a late flight."
+description: "How to get from Krabi Airport to Koh Lanta: shared minivan (400-550 THB), private transfer (2,100-3,300 THB), Grab, the car ferry and late flights."
 ---
 
 Krabi Airport is the closest airport to Koh Lanta, about 75 km away. A private car takes around 2 hours and a shared minivan 2 to 2.5 hours, plus whatever time you spend waiting for the car ferry. Koh Lanta has no airport of its own.

@@ -1,6 +1,6 @@
 ---
 title: "Visa and immigration"
-description: "Visa rules for Koh Lanta in 2026: 30 days visa-free, a 30-day extension for 1,900 THB, the nearest immigration office, visa agents on the island, visa runs and the DTV."
+description: "Visa rules for Koh Lanta in 2026: 30 days visa-free, a 30-day extension for 1,900 THB, the nearest immigration office, visa agents, visa runs and the DTV."
 weight: 1
 icon: "📋"
 group: "getting-started"

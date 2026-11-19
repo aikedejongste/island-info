@@ -1,7 +1,7 @@
 ---
 title: "Getting to Koh Lanta"
 seotitle: "Getting to Koh Lanta"
-description: "How to get to Koh Lanta: fly to Krabi and transfer by road, take a ferry from Phuket, Phi Phi or Ao Nang, or go overland from Bangkok. Routes, times and prices."
+description: "How to get to Koh Lanta: fly to Krabi and transfer by road, take a ferry from Phuket, Phi Phi or Ao Nang, or go overland from Bangkok. Routes, times, prices."
 weight: 2
 icon: "✈️"
 group: "getting-started"

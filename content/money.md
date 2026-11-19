@@ -1,6 +1,6 @@
 ---
 title: "ATMs and money exchange"
-description: "Where to find ATMs and money exchange on Koh Lanta, which ATM has the highest withdrawal limit, and how to avoid fees. Plus cards, mobile payments and tipping."
+description: "Where to find ATMs and money exchange on Koh Lanta, which ATM has the highest withdrawal limit and how to avoid fees. Plus cards, mobile payments and tipping."
 weight: 5
 icon: "💰"
 group: "getting-started"
