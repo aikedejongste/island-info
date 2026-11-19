@@ -1,10 +1,12 @@
 ---
-title: "Drinks"
-description: "Best bars and drinks on Koh Lanta. Craft beer at Devy Ale Cafe, cocktails, wine, sunset beach bars and happy hour spots across the island."
+title: "Bars and drinks"
+description: "The best bars on Koh Lanta: craft beer at Devy Ale Cafe, wine at Pimalai, sunset beach bars, live music, fire shows and happy hour spots."
 weight: 2
 icon: "🍹"
 group: "food-and-going-out"
 ---
+
+The best bars on Koh Lanta for craft beer, wine and sunset cocktails, from Saladan down to Kantiang Bay. For which bar has the party tonight, see the [weekly party schedule](/parties/).
 
 ## Craft Beer
 
@@ -16,10 +18,6 @@ group: "food-and-going-out"
 
 [Seven Seas at Pimalai Resort](https://www.google.com/maps/search/?api=1&query=Pimalai+Resort+Koh+Lanta) - Fine dining with extensive wine list.
 
-## Cocktails
-
-Sugggestions welcome!
-
 ## Nice bars
 
 [Pangea Beach Bar](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta) - Long Beach. Great cocktails like Pangea punch and mango madness. Stunning sunset views and chill house music.
@@ -28,6 +26,4 @@ Sugggestions welcome!
 
 [Freedom Bar](https://www.google.com/maps/search/?api=1&query=Freedom+Bar+Klong+Khong+Koh+Lanta) - Klong Khong. Delicious cocktails, fire shows, hammocks. Party nights on Saturdays.
 
-[Funky Monkey](https://www.google.com/maps/search/?api=1&query=Funky+Monkey+Bar+Koh+Lanta) - Long Beach. One of the biggest bars on the island with karaoke and live music.
-
-[Sound Shack Bar](https://www.google.com/maps/search/?api=1&query=Sound+Shack+Bar+Koh+Lanta) - Happy hour 4PM-9PM with cocktails at 100 baht.
+[Sound Shack Bar](https://www.google.com/maps/search/?api=1&query=Sound+Shack+Bar+Koh+Lanta) - Beach bar in Klong Khong. Happy hour 4PM-9PM with cocktails at 100 baht.
