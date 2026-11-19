@@ -4,6 +4,7 @@ description: "Where to find ATMs and money exchange on Koh Lanta, which ATM has 
 weight: 5
 icon: "💰"
 group: "getting-started"
+image: "/images/thai-baht-bills.jpg"
 ---
 
 Cash is king on Koh Lanta, so you'll be using ATMs and money exchange booths a lot. Most local restaurants, massage shops, markets and small businesses only accept cash. Bigger restaurants, hotels and convenience stores like 7-Eleven take Visa and Mastercard, but don't count on it everywhere. Always have cash on hand.

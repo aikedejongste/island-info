@@ -5,6 +5,7 @@ description: "The best beaches on Koh Lanta and how they differ: Khlong Dao, Lon
 weight: 1
 icon: "🏖️"
 group: "explore"
+image: "/images/beaches/long-beach.jpg"
 ---
 
 Honestly, you can't go wrong with beaches on Lanta — the west coast has many beaches. What follows is a guide to how they differ so you can pick the right one for the day.
