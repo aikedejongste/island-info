@@ -6,7 +6,7 @@ icon: "💻"
 group: "work"
 ---
 
-Koh Lanta has four coworking spaces (KoHub, Monkey Business, Fika and Coworx) and several cafes that work just as well for a day at the laptop. The island has fiber internet along the west coast from Saladan down to Klong Nin. Cafes average around 180 Mbps, and the dedicated coworking spaces hit 1 Gbps. You won't have connectivity problems here.
+Koh Lanta has four coworking spaces (KoHub, Monkey Business, Fika and Coworx) and several cafes that work just as well for a day at the laptop. The island has fiber internet along the west coast from Saladan down to Klong Nin. Cafes average around 180 Mbps, and the dedicated coworking spaces hit 1 Gbps. You won't have connectivity problems here. For SIM cards, backup lines and power cuts, see [internet, SIM cards and power cuts](/internet-and-sim-cards/).
 
 ## Coworking spaces
 
@@ -16,12 +16,12 @@ Koh Lanta has four coworking spaces (KoHub, Monkey Business, Fika and Coworx) an
 
 They also do coliving packages with a private room and meals included.
 
-**Seasonal: open November through April only.** Closed during low season.
+**Seasonal: open November through April only.** Closed during low season (see the [best time to visit Koh Lanta](/best-time-to-visit-koh-lanta/)).
 
 <ul class="price-list">
   <li><span class="price-label">Day pass</span> <span class="price-value">400 THB</span></li>
-  <li><span class="price-label">Week</span> <span class="price-value">2,000 THB</span></li>
-  <li><span class="price-label">Month</span> <span class="price-value">6,500 THB</span></li>
+  <li><span class="price-label">Week</span> <span class="price-value">2,200 THB</span></li>
+  <li><span class="price-label">Month</span> <span class="price-value">6,900 THB</span></li>
 </ul>
 
 <a href="https://kohub.org/?ref=lantanomads.com" target="_blank" rel="noopener">kohub.org</a>

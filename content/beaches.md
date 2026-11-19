@@ -46,4 +46,4 @@ Honestly, you can't go wrong with beaches on Lanta — the west coast has many b
 
 ## When is it safe to swim?
 
-From November to April the sea on the west coast is usually calm and every beach here is swimmable. From May to October, waves and currents get much stronger and the southern beaches often fly red flags. In those months, stick to the northern beaches like Khlong Dao and Long Beach, and stay out of the water when the red flag is up.
+From November to April the sea on the west coast is usually calm and every beach here is swimmable. From May to October, waves and currents get much stronger and the southern beaches often fly red flags. In those months, stick to the northern beaches like Khlong Dao and Long Beach, and stay out of the water when the red flag is up. More on the seasons: [best time to visit Koh Lanta](/best-time-to-visit-koh-lanta/).

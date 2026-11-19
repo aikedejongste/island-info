@@ -7,7 +7,7 @@ group: "getting-started"
 image: "/images/thai-baht-bills.jpg"
 ---
 
-Cash is king on Koh Lanta, so you'll be using ATMs and money exchange booths a lot. Most local restaurants, massage shops, markets and small businesses only accept cash. Bigger restaurants, hotels and convenience stores like 7-Eleven take Visa and Mastercard, but don't count on it everywhere. Always have cash on hand.
+Cash is king on Koh Lanta, so you'll be using ATMs and money exchange booths a lot. For what things cost, see the [cost of living on Koh Lanta](/cost-of-living-koh-lanta/). Most local restaurants, massage shops, markets and small businesses only accept cash. Bigger restaurants, hotels and convenience stores like 7-Eleven take Visa and Mastercard, but don't count on it everywhere. Always have cash on hand.
 
 ![Thai Baht banknotes](/images/thai-baht-bills.jpg)
 
