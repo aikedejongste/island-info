@@ -48,4 +48,4 @@ For shared minivans and private transfers from the airport, see [Krabi Airport t
 
 Probably not anytime soon. The island's population is small, tourism is seasonal, and the roads are simple enough that the informal taxi system works. Koh Samui and Phuket have Grab because they're big enough to sustain it. Lanta isn't there yet.
 
-For the full picture on scooters, ferries, and airport transfers, see the [transportation page](/transportation/).
+For the full picture on scooters, ferries, and airport transfers, see the [transportation page](/transportation/). Don't want to ride? See [Koh Lanta without a scooter](/koh-lanta-without-a-scooter/).

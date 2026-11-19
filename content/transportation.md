@@ -43,7 +43,7 @@ The price depends on the season, the bike's condition, and how long you're renti
 
 ### Don't want to drive?
 
-If you don't have a license or you're not comfortable on a scooter, <a href="https://maps.app.goo.gl/uipWxpP8qxHMzeKG8" target="_blank" rel="noopener">Koh Lanta Bike Rentals</a> rents e-bikes. Good for shorter trips around your area.
+If you don't have a license or you're not comfortable on a scooter, <a href="https://maps.app.goo.gl/uipWxpP8qxHMzeKG8" target="_blank" rel="noopener">Koh Lanta Bike Rentals</a> rents e-bikes. Good for shorter trips around your area. For all the other options, see [Koh Lanta without a scooter](/koh-lanta-without-a-scooter/).
 
 ### Flat tires
 
