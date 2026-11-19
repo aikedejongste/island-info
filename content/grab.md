@@ -9,7 +9,9 @@ group: "practical"
 
 No. Grab doesn't work on Koh Lanta, and neither does Bolt or any other ride-hailing app. The island is too small and too far from the mainland for any of them to operate here.
 
-If you're coming from Bangkok, Chiang Mai, or even Krabi town, you're used to opening an app and having a car show up. That won't happen here. Put the phone away and read on.
+If you're coming from Bangkok, Chiang Mai, or even Krabi town, you're used to opening an app and having a car show up. That won't happen here.
+
+Need a ride right now? Message one of the [taxi drivers below](#how-people-actually-get-around). Flying into Krabi? Book an [airport transfer](/transportation/#getting-to-the-island) ahead of time.
 
 ## How people actually get around
 
