@@ -17,7 +17,7 @@ Where to eat on Koh Lanta, from breakfast spots to seafood dinners, plus how to 
 
 [Peak Cafe](https://www.google.com/maps/search/?api=1&query=Peak+Cafe+Koh+Lanta)
 
-[Bark](https://www.google.com/maps/search/?api=1&query=Bark+Koh+Lanta)
+[Bark Brunch & Bowl](https://maps.app.goo.gl/63uqDDDfaMpNbfk58)
 
 [Tuesday Morning](https://www.google.com/maps/search/?api=1&query=Tuesday+Morning+Koh+Lanta) - On weekends.
 
