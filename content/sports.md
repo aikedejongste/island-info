@@ -1,16 +1,24 @@
 ---
-title: "Sports"
-description: "Gyms, fitness classes and yoga on Koh Lanta. WM Fitness, Luke's Gym, Muay Thai, HIIT classes and more."
+title: "Gyms and fitness"
+description: "Gyms and fitness on Koh Lanta: WM Fitness, Luke's Gym, a free beach gym, group fitness classes and yoga. Locations, equipment and day pass prices."
 weight: 3
 icon: "💪"
 group: "explore"
 ---
 
+Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Luke's Gym in Klong Khong. Both charge 200 THB for a day pass. There's also a free beach gym and a few group fitness classes.
+
 ## Gyms
+
+### WM Fitness
 
 [WM Fitness](https://www.google.com/maps/search/?api=1&query=WM+Fitness+Koh+Lanta) - Long Beach area. Modern gym with good selection of cardio equipment, resistance machines, and free weights. Also has a rig area with battle ropes, sandbags, kettlebells. Connected to William Muay Thai Stadium. Air conditioned. Day pass 200 THB. See [Facebook](https://www.facebook.com/WMfitnessLanta) for full pricing information.
 
+### Luke's Gym
+
 [Luke's Gym](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta) - European style gym in Klong Khong, surrounded by jungle. Dumbbells up to 50kg, many machines. Very clean with separate changing rooms and showers. Towels provided. Air conditioned. Protein shakes available (vegetarian/vegan options, 120 THB). Day pass 200 THB, see [lukesgym.com](https://lukesgym.com) for more pricing information. You need a scooter to get there.
+
+### Thai CAT Sport Center
 
 [Thai CAT Sport Center](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6) - Free fan-cooled gym near the beach where you can do a full workout with a bit of creativity. They have a sign asking guests to buy a drink or food to support the gym, but there is no hard pressure. A nice routine is to train first, then order a Pad Thai at their beach restaurant and cool off in the sea while your lunch is prepared.
 
