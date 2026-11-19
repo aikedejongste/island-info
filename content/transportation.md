@@ -78,16 +78,16 @@ Tuk-tuks and songthaew (shared pickup trucks) are sometimes available near Salad
 
 ![Boats docked at a Thai pier](/images/thailand-pier-boats.jpg)
 
-During high season (November to April), ferries run daily from <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Pier+Koh+Lanta" target="_blank" rel="noopener">Saladan Pier</a> to nearby islands. In low season, most routes shut down.
+During high season (November to April), ferries run daily from <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Pier+Koh+Lanta" target="_blank" rel="noopener">Saladan Pier</a> to nearby islands. Boats to Phuket, Phi Phi and Ao Nang keep running in low season (May to October) with fewer sailings, but most island-hopping routes stop.
 
 <div class="table-wrap">
 
 | Destination | Travel time | Approx. price |
 |---|---|---|
-| Koh Phi Phi | 30 min - 1 hr | 400-500 THB |
-| Phuket | 1.5 - 2 hrs | 600-1,200 THB |
+| Koh Phi Phi | 30 min - 1 hr | 400-725 THB |
+| Phuket | 1.5 - 4 hrs | 800-1,500 THB |
 | Krabi (Klong Jilad Pier) | 1 hr | 400-500 THB |
-| Ao Nang / Railay | 1 - 1.5 hrs | 400-600 THB |
+| Ao Nang / Railay | 1 - 2.5 hrs | 480-1,250 THB |
 | Koh Ngai | 30 min | 400 THB |
 | Koh Lipe | 3 hrs | 1,200-1,700 THB |
 
