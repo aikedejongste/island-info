@@ -17,11 +17,11 @@ Honestly, you can't go wrong with beaches on Lanta — the west coast has many b
 [Long Beach](https://maps.app.goo.gl/wmKSE4Zy3m6RZaDB9) - Just south of Khlong Dao and, as the name suggests, very long. A popular base with lots of accommodation, beach bars and sunset spots, but still spacious enough to find a quiet stretch. [Lym's Bar](https://maps.app.goo.gl/44cgz6KnatisbBuY8) is where most nomads go for sunset drinks.
 {{< /beach >}}
 
-{{< beach title="Klong Khong" >}}
+{{< beach title="Klong Khong" img="/images/beaches/klong-khong.jpg" alt="Klong Khong Beach at low tide, Koh Lanta" >}}
 [Klong Khong](https://www.google.com/maps/search/?api=1&query=Klong+Khong+Beach+Koh+Lanta) - South of Long Beach, with a string of beach bars like [Freedom Bar](/drinks/) and [Sound Shack](/drinks/). There are rocks along the waterline, so swimming is awkward at low tide. Better for a drink and the sunset than for a swim.
 {{< /beach >}}
 
-{{< beach title="Klong Nin" >}}
+{{< beach title="Klong Nin" img="/images/beaches/klong-nin.jpg" alt="Klong Nin Beach, Koh Lanta" >}}
 [Klong Nin](https://www.google.com/maps/search/?api=1&query=Klong+Nin+Beach+Koh+Lanta) - A sandy beach further south and one of the better ones for swimming, although it gets narrow at high tide. On Sundays, [Horizon Bar](/parties/#sunday) is a good sunset spot.
 {{< /beach >}}
 
