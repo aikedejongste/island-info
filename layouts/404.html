@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <article class="post">
+    <header style="text-align: center; padding-bottom: 1.5rem; margin-bottom: 2rem; border-bottom: 3px solid #e2e8f0;">
+      <h1 style="color: #0891b2; font-size: 2.5rem; margin-bottom: 0.5rem;">Page not found</h1>
+      <p style="color: #64748b; margin: 0;">This page doesn't exist (anymore). One of these might be what you were looking for.</p>
+    </header>
+    <div class="content" style="font-size: 1.05rem;">
+      <ul>
+        {{- range sort (where .Site.RegularPages "Params.group" "!=" nil) "Title" }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+    <nav style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #e2e8f0; text-align: center;">
+      <a class="back-link" href="{{ "/" | relURL }}" style="display: inline-block; background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%); color: white; padding: 0.75rem 2rem; border-radius: 8px; font-weight: 500;">← Back to All Topics</a>
+    </nav>
+  </article>
+{{ end }}

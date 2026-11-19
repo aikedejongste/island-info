@@ -4,6 +4,7 @@ description: "Getting around Koh Lanta. Scooter rentals, airport transfers from 
 weight: 4
 icon: "🛵"
 group: "getting-started"
+image: "/images/scooter-tropical-road.jpg"
 ---
 
 There's no public transport on Koh Lanta. Most people rent a scooter and that's pretty much all you need. The island is about 30km from north to south, so even the longest trip only takes around 40 minutes.

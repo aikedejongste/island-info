@@ -5,6 +5,7 @@ description: "How to get to Koh Lanta: fly to Krabi and transfer by road, take a
 weight: 2
 icon: "✈️"
 group: "getting-started"
+image: "/images/thailand-pier-boats.jpg"
 ---
 
 Most people get to Koh Lanta by flying to Krabi and taking a road transfer of about 2 hours. Koh Lanta has no airport, and there's no road bridge from the mainland yet, so every route ends with either a car ferry or a boat.
