@@ -37,18 +37,12 @@ There are two dental clinics on the island:
 
 ## How to avoid food poisoning
 
-This is my personal, non-scientific approach for times when getting sick simply isn't an option. It is nearly impossible to judge a restaurant's hygiene just by looking at it — so the trick isn't finding the "safe" restaurant, it's reducing your overall exposure.
+This is what I do when I can't afford to get sick. It's my own habit, not medical advice. You can't judge a kitchen by looking at the restaurant, so I don't try to find the "safe" place. I just give the bacteria fewer chances.
 
-**Eat fewer meals.** Switching from three meals a day to two cuts your risk by roughly 33%. Simple math, real impact.
-
-**Choose low-risk foods.** Meat, fish, and raw ingredients carry the highest risk. Opt for cooked or fried vegetarian dishes instead. If you're also worried about cooking oils, stick strictly to freshly cooked food and skip anything that's been sitting out.
-
-**No salads.** Raw vegetables are an easy one to avoid.
-
-**Skip the glass, drink from the can or bottle.** Ice cubes get a lot of attention online, but in Thailand this is generally a low concern — still, it's easy enough to avoid. More importantly, avoid drinking from glasses that may not have been properly washed.
-
-**Have a Coke with your meal.** Not scientifically proven, but plausible: the phosphoric acid in Coca-Cola may help neutralize some bacteria. At worst, it's a refreshing precaution.
-
-**Wash your hands with soap before every meal.** This one should go without saying, but it's easy to forget when you're settling into a restaurant and the food smells amazing.
-
-**Use the [toilet at your accommodation](https://www.urbandictionary.com/define.php?term=Heimscheisser).** Public and restaurant toilets vary wildly in hygiene. If you can plan around it, do.
+- Eat two meals a day instead of three. One fewer meal is one fewer roll of the dice.
+- Order cooked or fried vegetarian dishes. Meat, fish and anything raw carry the most risk. If the cooking oil worries you too, only eat food that was cooked fresh for you, never food that has been sitting out.
+- Skip salads. Raw vegetables are the easiest thing to cut.
+- Drink from the can or bottle, not the glass. People online worry about ice, but the tube ice (the cylinders with a hole in the middle) comes from factories and is rarely the problem. A glass that wasn't washed properly is more likely to get you.
+- Order a Coke with your meal. The theory is that the phosphoric acid kills some bacteria. I haven't found a study that backs this up, so call it superstition. At worst you've had a cold drink.
+- Wash your hands with soap before you eat. Obvious, but easy to forget when the food arrives and smells this good.
+- Use the [toilet at your accommodation](https://www.urbandictionary.com/define.php?term=Heimscheisser) when you can. Restaurant and public toilets range from fine to grim.
