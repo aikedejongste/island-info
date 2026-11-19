@@ -1,7 +1,7 @@
 ---
 title: "Island trips and snorkelling"
 seotitle: "Island Trips and Snorkelling from Koh Lanta: Koh Rok and 4 Islands"
-description: "Day trips from Koh Lanta: snorkelling at Koh Rok and Koh Haa, the 4 Islands tour with the Emerald Cave, national park fees, speedboat or longtail, and when trips run."
+description: "Day trips from Koh Lanta: snorkelling at Koh Rok and Koh Haa, the 4 Islands tour with the Emerald Cave, park fees, speedboat or longtail, and when trips run."
 weight: 2
 icon: "🤿"
 group: "explore"

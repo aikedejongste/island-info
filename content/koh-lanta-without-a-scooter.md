@@ -1,7 +1,7 @@
 ---
 title: "Koh Lanta without a scooter"
 seotitle: "Koh Lanta Without a Scooter: Taxis, Tuk-tuks, E-bikes and Where to Stay"
-description: "How to get around Koh Lanta without a scooter: where to stay so you can walk, taxis and tuk-tuks on WhatsApp, e-bikes and bicycles, renting a car, and day trips with hotel pick-up."
+description: "How to get around Koh Lanta without a scooter: where to stay so you can walk, taxis and tuk-tuks on WhatsApp, e-bikes, car rental and day trips with pick-up."
 weight: 5
 icon: "🚶"
 group: "practical"

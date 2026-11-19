@@ -1,10 +1,12 @@
 ---
 title: "Where to buy"
-description: "Where to buy things on Koh Lanta. Pillows, art supplies, helmets, photos and more for daily life on the island."
+description: "Where to buy things on Koh Lanta: pillows, art supplies, coffee beans, passport photos, helmets and plants for daily life on the island."
 weight: 2
 icon: "🛍️"
 group: "practical"
 ---
+
+Where to buy the things you need for daily life on Koh Lanta, from pillows and helmets to passport photos and plants.
 
 ## Pillows
 
@@ -28,7 +30,7 @@ See the [Coffee page](/coffee) for where to buy coffee beans and equipment.
 
 ## Photos
 
-[Kodak shop](https://maps.app.goo.gl/gEyhtv4mticYgxL68) is the place to go for passport photos and for visa extenstions.
+[Kodak shop](https://maps.app.goo.gl/gEyhtv4mticYgxL68) is the place to go for passport photos and for visa extensions.
 
 ## Helmets
 

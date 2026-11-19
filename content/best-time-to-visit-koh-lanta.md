@@ -1,7 +1,7 @@
 ---
 title: "Best time to visit Koh Lanta"
 seotitle: "Best Time to Visit Koh Lanta: Seasons, Weather and What Closes"
-description: "The best time to visit Koh Lanta, month by month: dry season from November to April, rainy season from May to October, what closes in low season, sea conditions and prices."
+description: "The best time to visit Koh Lanta, month by month: dry season November to April, rainy season May to October, what closes in low season, the sea and prices."
 weight: 3
 icon: "🌦️"
 group: "getting-started"

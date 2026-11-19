@@ -1,14 +1,14 @@
 ---
 title: "Best beaches"
 seotitle: "Best Beaches on Koh Lanta: Which One to Pick"
-description: "The best beaches on Koh Lanta and how they differ: Khlong Dao, Long Beach, Klong Khong, Klong Nin, Nui Bay, Beautiful Beach, Kantiang Bay and Klong Jak, plus when it's safe to swim."
+description: "The best beaches on Koh Lanta and how they differ, from Khlong Dao and Long Beach down to Kantiang Bay and Klong Jak, plus when it's safe to swim."
 weight: 1
 icon: "🏖️"
 group: "explore"
 image: "/images/beaches/long-beach.jpg"
 ---
 
-Honestly, you can't go wrong with beaches on Lanta — the west coast has many beaches. What follows is a guide to how they differ so you can pick the right one for the day.
+You can't go wrong with the beaches on Koh Lanta. The west coast has lots of them, and this guide shows how they differ so you can pick the right one for the day.
 
 {{< beach title="Khlong Dao Beach" img="/images/beaches/khlong-dao.jpg" alt="Khlong Dao Beach, Koh Lanta" >}}
 [Khlong Dao Beach](https://maps.app.goo.gl/ypdRjmCqeoo7PXbB6) - The northernmost of the main beaches, closest to Saladan. A long, wide stretch of gently shelving sand that's great for swimming and families, with plenty of restaurants, bars and resorts along the back. Recommended bar: [Majestic bar](https://maps.app.goo.gl/2LrGJpFV3f4jX27b6)

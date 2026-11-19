@@ -1,7 +1,7 @@
 ---
 title: "Cost of living on Koh Lanta"
 seotitle: "Cost of Living on Koh Lanta: Monthly Budget for Nomads"
-description: "What a month on Koh Lanta costs: rent, coworking, scooter, food, drinks, massage, SIM card and more, with a budget and a comfortable monthly estimate in Thai baht."
+description: "What a month on Koh Lanta costs: rent, coworking, scooter, food, drinks, massage, SIM card and more, with a budget and a comfortable monthly total in baht."
 weight: 5
 icon: "💸"
 group: "getting-started"

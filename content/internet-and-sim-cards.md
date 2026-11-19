@@ -1,7 +1,7 @@
 ---
 title: "Internet, SIM cards and power cuts"
 seotitle: "Internet, SIM Cards and Power Cuts on Koh Lanta"
-description: "How good is the internet on Koh Lanta? Fiber speeds, which coworking spaces have backup lines, tourist SIM cards and eSIMs (AIS and True), and how often the power goes out."
+description: "How good is the internet on Koh Lanta? Fiber speeds, coworking backup lines, tourist SIM cards and eSIMs (AIS and True), and how often the power goes out."
 weight: 2
 icon: "📶"
 group: "work"

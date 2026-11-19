@@ -1,7 +1,7 @@
 ---
 title: "Bangkok to Koh Lanta"
 seotitle: "Bangkok to Koh Lanta"
-description: "How to get from Bangkok to Koh Lanta: fly to Krabi (5-6 hours door to door), fly to Trang or Phuket, or take the night bus or overnight train. Times, prices and which airport to pick."
+description: "How to get from Bangkok to Koh Lanta: fly to Krabi (5-6 hours door to door), Trang or Phuket, or take the night bus or overnight train. Times and prices."
 ---
 
 The fastest way from Bangkok to Koh Lanta is a flight to Krabi and a transfer to the island. Count on 5-6 hours door to door with a shared minivan, or 4-5 hours with a private car. There's no airport on Koh Lanta.
