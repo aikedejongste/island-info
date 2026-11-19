@@ -20,8 +20,8 @@ They also do coliving packages with a private room and meals included.
 
 <ul class="price-list">
   <li><span class="price-label">Day pass</span> <span class="price-value">400 THB</span></li>
-  <li><span class="price-label">Week</span> <span class="price-value">2,000 THB</span></li>
-  <li><span class="price-label">Month</span> <span class="price-value">6,500 THB</span></li>
+  <li><span class="price-label">Week</span> <span class="price-value">2,200 THB</span></li>
+  <li><span class="price-label">Month</span> <span class="price-value">6,900 THB</span></li>
 </ul>
 
 <a href="https://kohub.org/?ref=lantanomads.com" target="_blank" rel="noopener">kohub.org</a>
