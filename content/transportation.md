@@ -77,7 +77,7 @@ If you don't have a license or you're not comfortable on a scooter, <a href="htt
 
 ### Flat tires
 
-When you inevitably get a flat, head to this <a href="https://maps.app.goo.gl/cSukRtbw65ANbrgo6" target="_blank" rel="noopener">tire repair shop</a>. Fixes are quick and cheap (around 50-100 THB).
+When you inevitably get a flat, head to this <a href="https://maps.app.goo.gl/cSukRtbw65ANbrgo6" target="_blank" rel="noopener">tire repair shop</a>. Fixes are quick and cheap (around 50-100 THB). For a broken phone or laptop, see [phone and laptop repair](/repairs/).
 
 ## Taxis on the island
 
