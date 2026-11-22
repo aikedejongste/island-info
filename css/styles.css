@@ -213,6 +213,18 @@ h3:hover .heading-anchor,
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
+/* About page photo */
+.about-photo {
+  max-width: 280px;
+  margin: 0 auto 2rem;
+}
+
+.about-photo img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
 /* Beach blocks: text left, image right (stacks on mobile) */
 .beach {
   display: flex;
