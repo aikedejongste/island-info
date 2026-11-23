@@ -41,29 +41,32 @@ jobs:
           publish_dir: ./public
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Submit URLs to IndexNow
-        continue-on-error: true
+      - name: Submit changed pages to IndexNow
         run: |
           KEY="f9eaa7fef6664212ab3289298a9d8dd0"
-          # GitHub Pages publishes asynchronously after the gh-pages push.
-          # Wait until the key file is live, otherwise IndexNow can't verify it.
+          # Submit only pages that are new or whose <lastmod> (last git commit) differs
+          # from the previous deploy. origin/gh-pages is still the pre-deploy version here.
+          pages() { grep -o '<loc>[^<]*</loc><lastmod>[^<]*' | sed 's/<loc>//; s/<\/loc><lastmod>/ /' | sort; }
+          comm -13 <(git show origin/gh-pages:sitemap.xml | pages) <(pages < public/sitemap.xml) | cut -d' ' -f1 > changed-urls.txt
+          echo "Changed URLs:"; cat changed-urls.txt
+          if [ ! -s changed-urls.txt ]; then echo "Nothing changed, skipping IndexNow"; exit 0; fi
+
+          # GitHub Pages publishes asynchronously after the gh-pages push. Never ping
+          # before the key file is live: Bing caches a failed key check.
           for i in $(seq 1 30); do
-            if [ "$(curl -s "https://lantanomads.com/${KEY}.txt")" = "$KEY" ]; then break; fi
+            [ "$(curl -s "https://lantanomads.com/${KEY}.txt")" = "$KEY" ] && break
+            [ "$i" = 30 ] && { echo "::error::IndexNow key file not live after 5 minutes"; exit 1; }
             sleep 10
           done
-          URL_LIST=$(grep -o '<loc>[^<]*</loc>' ./public/sitemap.xml | sed 's/<[^>]*>//g' | jq -R -s 'split("\n") | map(select(length > 0))')
-          PAYLOAD=$(jq -n \
-            --arg host "lantanomads.com" \
-            --arg key "$KEY" \
-            --arg keyLocation "https://lantanomads.com/${KEY}.txt" \
-            --argjson urlList "$URL_LIST" \
-            '{host: $host, key: $key, keyLocation: $keyLocation, urlList: $urlList}')
+
+          PAYLOAD=$(jq -n --arg key "$KEY" --rawfile urls changed-urls.txt \
+            '{host: "lantanomads.com", key: $key, keyLocation: "https://lantanomads.com/\($key).txt",
+              urlList: ($urls | split("\n") | map(select(length > 0)))}')
           STATUS=$(curl -s -o response.txt -w '%{http_code}' -X POST "https://api.indexnow.org/indexnow" \
-            -H "Content-Type: application/json; charset=utf-8" \
-            -d "$PAYLOAD")
+            -H "Content-Type: application/json; charset=utf-8" -d "$PAYLOAD")
           echo "IndexNow HTTP $STATUS"; cat response.txt
           # 200 = OK, 202 = accepted, key validation pending
           if [ "$STATUS" != "200" ] && [ "$STATUS" != "202" ]; then
-            echo "::warning title=IndexNow failed::HTTP $STATUS $(cat response.txt)"
+            echo "::error::IndexNow HTTP $STATUS $(cat response.txt)"
             exit 1
           fi
