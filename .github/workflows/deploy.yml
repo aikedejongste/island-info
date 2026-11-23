@@ -5,7 +5,13 @@ on:
     branches: [ "main" ]
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   lint:
@@ -21,6 +27,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     needs: lint
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - uses: actions/checkout@v7
@@ -35,23 +44,33 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      # Runs before deploying, while the live sitemap is still the previous version.
+      - name: Find changed pages
+        run: |
+          # Pages that are new or whose <lastmod> (last git commit) differs from the live site
+          pages() { grep -o '<loc>[^<]*</loc><lastmod>[^<]*' | sed 's/<loc>//; s/<\/loc><lastmod>/ /' | sort; }
+          if ! curl -fsS https://lantanomads.com/sitemap.xml -o live-sitemap.xml; then
+            echo "::warning::Could not fetch live sitemap, treating every page as changed"
+            : > live-sitemap.xml
+          fi
+          comm -13 <(pages < live-sitemap.xml) <(pages < public/sitemap.xml) | cut -d' ' -f1 > changed-urls.txt
+          echo "Changed URLs:"; cat changed-urls.txt
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
         with:
-          publish_dir: ./public
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
 
       - name: Submit changed pages to IndexNow
         run: |
           KEY="f9eaa7fef6664212ab3289298a9d8dd0"
-          # Submit only pages that are new or whose <lastmod> (last git commit) differs
-          # from the previous deploy. origin/gh-pages is still the pre-deploy version here.
-          pages() { grep -o '<loc>[^<]*</loc><lastmod>[^<]*' | sed 's/<loc>//; s/<\/loc><lastmod>/ /' | sort; }
-          comm -13 <(git show origin/gh-pages:sitemap.xml | pages) <(pages < public/sitemap.xml) | cut -d' ' -f1 > changed-urls.txt
-          echo "Changed URLs:"; cat changed-urls.txt
           if [ ! -s changed-urls.txt ]; then echo "Nothing changed, skipping IndexNow"; exit 0; fi
 
-          # GitHub Pages publishes asynchronously after the gh-pages push. Never ping
+          # deploy-pages waits for the deployment, but the CDN can lag. Never ping
           # before the key file is live: Bing caches a failed key check.
           for i in $(seq 1 30); do
             [ "$(curl -s "https://lantanomads.com/${KEY}.txt")" = "$KEY" ] && break
