@@ -5,7 +5,7 @@ description: "Lanta Nomads is written by Jacob, a digital nomad who has spends t
 ---
 
 <figure class="about-photo">
-  <img src="/images/jacob.jpg" alt="Jacob walking barefoot along a Koh Lanta beach at sunset" width="560" height="376">
+  <img src="/images/jacob.jpg" alt="Jacob sitting on a wooden bench overlooking a lake and mountains" width="595" height="551">
 </figure>
 
 Hi, I'm Jacob. I'm a digital nomad, and since 2015 I've been coming to Koh Lanta most winters. I work remotely from Kohub. That's also what brought me to the island in the first place.
