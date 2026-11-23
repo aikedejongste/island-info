@@ -17,7 +17,7 @@ Cash is king on Koh Lanta, so you'll be using ATMs and money exchange booths a l
 
 ATMs are scattered across the island, mostly at 7-Elevens and bank branches. You'll find them in Saladan, Klong Dao, Long Beach and Klong Nin. There are two banks in Saladan (SCB and TTB), and a Kasikorn ATM near Southern Lanta Resort at Klong Dao Beach.
 
-All Thai ATMs charge a **250 THB fee** per withdrawal on foreign cards. This is unavoidable, so withdraw as much as you can in one go to reduce the hit.
+Thai ATMs charge a fee on every withdrawal with a foreign card: **250 THB for Visa, UnionPay and JCB, 350 THB for Mastercard** (per [Krungsri's fee schedule](https://www.krungsri.com/getmedia/00241a45-8959-4218-8d17-426f90ea9393/electronic-banking-service-fees-01092026-en), effective 1 September 2026; Kasikorn and SCB report the same split). You can't avoid it, so withdraw as much as you can in one go. If you carry both a Visa and a Mastercard, use the Visa and save 100 THB per withdrawal. The ATM shows the fee before you confirm, so check the screen.
 
 ### Which ATM to use
 
@@ -25,17 +25,17 @@ Not all ATMs are equal. Krungsri (yellow) ATMs let you pull 30,000 THB per trans
 
 <div class="table-wrap">
 
-| Bank | ATM Color | Max per withdrawal | Fee |
-|------|-----------|-------------------|-----|
-| Krungsri | Yellow | 30,000 THB | 250 THB |
-| Bangkok Bank | Blue | 25,000 THB | 250 THB |
-| Kasikorn (KBank) | Green | 20,000-30,000 THB | 250 THB |
-| SCB | Purple | 20,000 THB | 250 THB |
-| Krungthai | Light blue | 20,000 THB | 250 THB |
+| Bank | ATM Color | Max per withdrawal |
+|------|-----------|-------------------|
+| Krungsri | Yellow | 30,000 THB |
+| Bangkok Bank | Blue | 25,000 THB |
+| Kasikorn (KBank) | Green | 20,000-30,000 THB |
+| SCB | Purple | 20,000 THB |
+| Krungthai | Light blue | 20,000 THB |
 
 </div>
 
-**Look for the yellow Krungsri ATMs.** At 30,000 THB with a 250 THB fee, you're paying about 0.8%. At an SCB machine doing 20,000 THB, that same fee costs you 1.25%.
+**Look for the yellow Krungsri ATMs.** Taking out 30,000 THB with a Visa card, the 250 THB fee is about 0.8%. At a machine that stops at 20,000 THB, the same fee costs you 1.25%. With a Mastercard it's 1.2% and 1.75%.
 
 Use the [Krungsri location finder](https://www.krungsri.com/en/locations) to find one nearby: select **ATM** and enter postal code **81150**.
 
@@ -54,7 +54,7 @@ The chance of an ATM on Koh Lanta skimming your card is very, very low, but not 
 
 ## Cards for travel
 
-If you're staying for a while, a [Wise card](https://wise.com/invite/ath/jacobusd57) is worth getting before your trip. It converts at the mid-market exchange rate with a small fee (around 0.4-0.6%) and has no foreign transaction fee on card payments. For ATM withdrawals, you get 2 free pulls per month (up to 200 EUR for EEA-issued cards, or 100 USD for US-issued cards), then a small percentage fee after that. The Thai ATM surcharge still applies on top.
+If you're staying for a while, a [Wise card](https://wise.com/invite/ath/jacobusd57) is worth getting before your trip. It converts at the mid-market exchange rate with a small fee (around 0.4-0.6%) and has no foreign transaction fee on card payments. For ATM withdrawals there's a free monthly allowance that depends on where your card was issued. Since May 2026, EEA cards get 250 EUR a month free and pay 2.69% above that. The Wise app shows your own allowance under ATM fees. The Thai ATM fee still applies on top.
 
 Your home bank debit or credit card will also work at ATMs and larger shops, but check what foreign transaction fees they charge. Many banks add 1-3% on top of the exchange rate, which adds up over a month.
 
@@ -62,7 +62,7 @@ Your home bank debit or credit card will also work at ATMs and larger shops, but
 
 **PromptPay** is Thailand's QR payment system. You'll see QR codes at many shops and restaurants, but you need a Thai bank account to use it directly.
 
-**TrueMoney Wallet** is more accessible for foreigners. You can sign up with your passport and a Thai SIM card, then top up at 7-Eleven (max 3,000 THB per top-up). The wallet cap is 50,000 THB. It works at shops displaying TrueMoney QR codes.
+**TrueMoney Wallet** is more accessible for foreigners. You can sign up with your passport and a Thai SIM card, then top up at 7-Eleven (max 3,000 THB per top-up). The wallet holds up to 30,000 THB if you verify with only your passport, or 50,000 THB if you add a supporting document. It works at shops displaying TrueMoney QR codes.
 
 That said, most short-stay visitors just stick with cash and cards. Mobile payments are a nice bonus if you're here for a few months.
 
