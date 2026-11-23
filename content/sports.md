@@ -15,7 +15,7 @@ Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Lu
 
 ![Leg press and other weight machines at WM Fitness on Koh Lanta](/images/gyms/wm-fitness.jpg)
 
-*Photo: Hans-Jürgen Sandl via [Google Maps](https://www.google.com/maps/search/?api=1&query=WM+Fitness+Koh+Lanta), used with permission*
+*Photo: Hans-Jürgen Sandl via [Google Maps](https://www.google.com/maps/search/?api=1&query=WM+Fitness+Koh+Lanta)*
 
 [WM Fitness](https://www.google.com/maps/search/?api=1&query=WM+Fitness+Koh+Lanta) - Long Beach area. Modern gym with good selection of cardio equipment, resistance machines, and free weights. Also has a rig area with battle ropes, sandbags, kettlebells. Connected to William Muay Thai Stadium. Air conditioned. Day pass 200 THB. See [Facebook](https://www.facebook.com/WMfitnessLanta) for full pricing information.
 
@@ -23,7 +23,7 @@ Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Lu
 
 ![Red weight machines and treadmills at Luke's Gym, with trees outside the windows](/images/gyms/lukes-gym.jpg)
 
-*Photo: Luke's Gym via [Google Maps](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta), used with permission*
+*Photo: Luke's Gym via [Google Maps](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta)*
 
 [Luke's Gym](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta) - European style gym in Klong Khong, surrounded by jungle. Dumbbells up to 50kg, many machines. Very clean with separate changing rooms and showers. Towels provided. Air conditioned. Protein shakes available (vegetarian/vegan options, 120 THB). Day pass 200 THB, see their [Facebook page](https://www.facebook.com/lukesgym/) for more pricing information. You need a scooter to get there.
 
@@ -31,7 +31,7 @@ Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Lu
 
 ![Weight machines and benches under an open-sided roof at Thai CAT Sport Center](/images/gyms/thai-cat-sport-center.jpg)
 
-*Photo: Michael Grino via [Google Maps](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6), used with permission*
+*Photo: Michael Grino via [Google Maps](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6)*
 
 [Thai CAT Sport Center](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6) - Fan-cooled gym near the beach where you can do a full workout with a bit of creativity. Entry is 100 THB per person, and you get a 100 THB voucher to spend on food or drinks at their beach restaurant, so the workout is free if you eat or drink there. A nice routine is to train first, then use the voucher on a Pad Thai and cool off in the sea while your lunch is prepared.
 
