@@ -35,6 +35,10 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Save live sitemap
+        continue-on-error: true
+        run: curl -sf https://lantanomads.com/sitemap.xml -o live-sitemap.xml
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -51,7 +55,11 @@ jobs:
             if [ "$(curl -s "https://lantanomads.com/${KEY}.txt")" = "$KEY" ]; then break; fi
             sleep 10
           done
-          URL_LIST=$(grep -o '<loc>[^<]*</loc>' ./public/sitemap.xml | sed 's/<[^>]*>//g' | jq -R -s 'split("\n") | map(select(length > 0))')
+          # Only submit pages that are new or whose <lastmod> (git commit date) changed.
+          python3 scripts/changed-urls.py live-sitemap.xml public/sitemap.xml > changed-urls.txt
+          echo "Changed URLs:"; cat changed-urls.txt
+          if [ ! -s changed-urls.txt ]; then echo "Nothing changed, skipping IndexNow"; exit 0; fi
+          URL_LIST=$(jq -R -s 'split("\n") | map(select(length > 0))' changed-urls.txt)
           PAYLOAD=$(jq -n \
             --arg host "lantanomads.com" \
             --arg key "$KEY" \
