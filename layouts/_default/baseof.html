@@ -56,6 +56,12 @@
       "name": "{{ .Title }}",
       "url": "{{ .Permalink }}",
       "description": "{{ $description }}",
+      {{- with .Params.image }}
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "{{ $ogimage | absURL }}"
+      },
+      {{- end }}
       "isPartOf": {
         "@type": "WebSite",
         "name": "{{ .Site.Title }}",
