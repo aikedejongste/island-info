@@ -4,6 +4,7 @@ description: "Gyms and fitness on Koh Lanta: WM Fitness, Luke's Gym, a beach gym
 weight: 3
 icon: "💪"
 group: "explore"
+image: "/images/gyms/lukes-gym.jpg"
 ---
 
 Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Luke's Gym in Klong Khong. Both charge 200 THB for a day pass. There's also a beach gym that's effectively free if you eat there, plus a few group fitness classes.
@@ -12,13 +13,25 @@ Koh Lanta has two air-conditioned gyms, WM Fitness in the Long Beach area and Lu
 
 ### WM Fitness
 
+![Leg press and other weight machines at WM Fitness on Koh Lanta](/images/gyms/wm-fitness.jpg)
+
+*Photo: Hans-Jürgen Sandl via [Google Maps](https://www.google.com/maps/search/?api=1&query=WM+Fitness+Koh+Lanta), used with permission*
+
 [WM Fitness](https://www.google.com/maps/search/?api=1&query=WM+Fitness+Koh+Lanta) - Long Beach area. Modern gym with good selection of cardio equipment, resistance machines, and free weights. Also has a rig area with battle ropes, sandbags, kettlebells. Connected to William Muay Thai Stadium. Air conditioned. Day pass 200 THB. See [Facebook](https://www.facebook.com/WMfitnessLanta) for full pricing information.
 
 ### Luke's Gym
 
-[Luke's Gym](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta) - European style gym in Klong Khong, surrounded by jungle. Dumbbells up to 50kg, many machines. Very clean with separate changing rooms and showers. Towels provided. Air conditioned. Protein shakes available (vegetarian/vegan options, 120 THB). Day pass 200 THB, see [lukesgym.com](https://lukesgym.com) for more pricing information. You need a scooter to get there.
+![Red weight machines and treadmills at Luke's Gym, with trees outside the windows](/images/gyms/lukes-gym.jpg)
+
+*Photo: Luke's Gym via [Google Maps](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta), used with permission*
+
+[Luke's Gym](https://www.google.com/maps/search/?api=1&query=Lukes+Gym+Koh+Lanta) - European style gym in Klong Khong, surrounded by jungle. Dumbbells up to 50kg, many machines. Very clean with separate changing rooms and showers. Towels provided. Air conditioned. Protein shakes available (vegetarian/vegan options, 120 THB). Day pass 200 THB, see their [Facebook page](https://www.facebook.com/lukesgym/) for more pricing information. You need a scooter to get there.
 
 ### Thai CAT Sport Center
+
+![Weight machines and benches under an open-sided roof at Thai CAT Sport Center](/images/gyms/thai-cat-sport-center.jpg)
+
+*Photo: Michael Grino via [Google Maps](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6), used with permission*
 
 [Thai CAT Sport Center](https://maps.app.goo.gl/YyADh6tQvk9C4R3h6) - Fan-cooled gym near the beach where you can do a full workout with a bit of creativity. Entry is 100 THB per person, and you get a 100 THB voucher to spend on food or drinks at their beach restaurant, so the workout is free if you eat or drink there. A nice routine is to train first, then use the voucher on a Pad Thai and cool off in the sea while your lunch is prepared.
 
@@ -56,9 +69,9 @@ Koh Lanta has several Muay Thai gyms for every level, from first-timers to peopl
 
 ## Classes
 
-[Fit On Lanta](https://maps.app.goo.gl/KV93eCEPcVzbbv829) - Group fitness classes in the morning and evening. Classes include HIIT, strength training, yoga, and more. Suitable for all fitness levels. See [website](https://www.fitonlanta.com/prices) for class schedule and pricing information.
+[Fit On Lanta](https://maps.app.goo.gl/KV93eCEPcVzbbv829) - Morning group classes at 8:00 and 9:15: HYROX, strength and conditioning, and HIIT. They also run open gym sessions with an ice bath. You don't need to book. See their [website](https://www.fitonlanta.com/schedule) for the schedule and prices.
 
-[Slava Total Workout](https://maps.app.goo.gl/wkPqUMUxK55g1mfz8) - High intensity functional training class, held every weekday at 8 in the morning at the Lanta Sports Restort. Also at 9:30 in the morning on Monday, Wednesday and Fridays. 60 minutes of bodyweight exercises, kettlebells, battle ropes, and sandbags. Suitable for all fitness levels. See [Facebook](https://www.facebook.com/slavatotalworkout) for schedule and pricing.
+[Slava Total Workout](https://maps.app.goo.gl/wkPqUMUxK55g1mfz8) - Outdoor circuit class on the rooftop of Lanta Sport Resort, every weekday at 8 in the morning, plus 9:30 on Monday, Wednesday and Friday. An hour of strength and conditioning with kettlebells, dumbbells, TRX, Bulgarian bags and resistance bands, scaled to your level. Book ahead on WhatsApp through their [website](https://www.slavatotalworkout.com).
 
 ## Yoga
 
