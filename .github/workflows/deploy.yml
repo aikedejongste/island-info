@@ -23,6 +23,8 @@ jobs:
           globs: "content/**/*.md"
 
   build:
+    # Forks have no Pages site; deploying (and pinging IndexNow) from one fails or misfires
+    if: ${{ !github.event.repository.fork }}
     runs-on: ubuntu-latest
     needs: lint
     # Only the deploying job may mint an OIDC token and publish to Pages
