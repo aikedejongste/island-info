@@ -37,6 +37,7 @@ The price depends on the season, the bike's condition, and how long you're renti
 <li>An international driving permit (IDP) is technically required. Police do occasional checkpoints and the fine is 500 THB without one.</li>
 <li>Wear a helmet. It's the law, and the roads get steep and winding in the southern part of the island.</li>
 <li>Roads are in acceptable shape, watch out for sand, gravel. Never drive through puddles of water.</li>
+<li>Before you ride in rainy season, check the radar in the free <a href="https://www.rainviewer.com/" target="_blank" rel="noopener">RainViewer</a> app and let a shower pass first. Wet roads get slippery. See the <a href="/best-time-to-visit-koh-lanta/">best time to visit Koh Lanta</a> for what the seasons are like.</li>
 <li>Riding at night without a visor? Keep bugs and sand out of your eyes. <a href="https://maps.app.goo.gl/33JTgZ7otL8R2VvH8" target="_blank" rel="noopener">Modern Optic Lanta</a> sells clear (non-tinted) glasses made for night riding.</li>
 </ul>
 </div>

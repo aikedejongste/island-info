@@ -55,6 +55,8 @@ What that means on the island:
 
 Rainy season can also bring jellyfish. In June 2026 the national park [closed Koh Ngai, Koh Haa and the beach at the park headquarters](https://www.nationthailand.com/news/general/40067300) for a while after Portuguese man o' war washed up.
 
+To plan your day around the showers, use the free [RainViewer](https://www.rainviewer.com/) app (iOS and Android). It works well on Koh Lanta. The live radar map shows where it's raining and which way the rain is moving, so you can see a shower coming in off the sea and wait it out before you get on the scooter.
+
 ## Where to go in low season
 
 Low season works if all you need is a quiet base with good internet: Monkey Business is open and accommodation is cheap. For beaches and island trips it's the wrong time, and many nomads leave for the season. Places the [KoHub community](https://kohub.org/seasons) suggests include Chiang Mai, the islands in the Gulf of Thailand (Koh Phangan, Koh Samui, Koh Tao), Bali and Lisbon.
