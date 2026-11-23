@@ -29,7 +29,7 @@ The cost of living on Koh Lanta depends mostly on your rent and the season. A si
 | Gym day pass | 200 THB |
 | Tourist SIM, 30 days | about 1,200 THB |
 | Laundry, per kilo | about 40-60 THB |
-| ATM fee per withdrawal (foreign card) | 250 THB |
+| ATM fee per withdrawal (foreign card) | 250 THB (Visa), 350 THB (Mastercard) |
 | 30-day visa extension | 1,900 THB |
 
 </div>
@@ -67,7 +67,7 @@ Rent is what changes most. December to February is the most expensive time, and 
 - Negotiate a monthly rate directly, in person or over WhatsApp. It's usually much cheaper than a booking site.
 - Rent your scooter by the month instead of by the day.
 - Eat at local Thai restaurants away from the beach road.
-- Every ATM withdrawal costs 250 THB, so take out as much as you can at once. Krungsri's yellow ATMs let you withdraw the most per transaction (see [money](/money/)).
+- Every ATM withdrawal costs 250 THB on a Visa card and 350 THB on a Mastercard, so take out as much as you can at once. Krungsri's yellow ATMs let you withdraw the most per transaction (see [money](/money/)).
 - Work from cafes with good WiFi instead of paying for coworking every day.
 
 Sources for prices not on our other pages: monthly rents from [Expats Thai](https://expatsthai.com/islands/koh-lanta) and [Rentals in Thailand](https://rentalsinthailand.com/blog/budget-friendly-long-stay-koh-lanta), food and beer from [In Koh Lanta](https://www.inkohlanta.com/guides/koh-lanta-budget) and [Numbeo](https://www.numbeo.com/cost-of-living/in/Koh-Lanta-Thailand), massage from [Massage Prices](https://massageprices.com/thailand/koh-lanta/), laundry from [Thaizer](https://www.thaizer.com/laundry-in-thailand/). Coworking prices are from [KoHub](https://kohub.org/join_us) (November 2026).
